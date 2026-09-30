@@ -1,0 +1,81 @@
+{
+  "documents": [
+    {
+      "file": "os-21-419-2025.pdf",
+      "primary_record": "10.5194/os-21-419-2025",
+      "storage_path": "documents/os-21-419-2025.pdf"
+    },
+    {
+      "file": "arctic-report.pdf",
+      "primary_record": "REP-ARCTIC-14",
+      "storage_path": "documents/arctic-report.pdf"
+    },
+    {
+      "file": "isea-44-report.pdf",
+      "primary_record": "REP-ISEA-44",
+      "storage_path": "documents/isea-44-report.pdf"
+    },
+    {
+      "file": "maitri_aws_surface_2023_sample.csv",
+      "primary_record": "NPDC-MET-MAITRI-2023",
+      "storage_path": "documents/maitri_aws_surface_2023_sample.csv"
+    },
+    {
+      "file": "indarc_kongsfjorden_ctd_sample.csv",
+      "primary_record": "NCPOR-INDARC-CTD-2022",
+      "storage_path": "documents/indarc_kongsfjorden_ctd_sample.csv"
+    }
+  ],
+  "media": [
+    {
+      "file": "arctic-sea-ice.jpg",
+      "primary_record": "MED_IMG_001",
+      "storage_path": "media/arctic-sea-ice.jpg"
+    },
+    {
+      "file": "arctic-sea-ice.mp4",
+      "primary_record": "MED_VID_001",
+      "storage_path": "media/arctic-sea-ice.mp4"
+    },
+    {
+      "file": "penguin-beach.jpg",
+      "primary_record": "MED_IMG_002",
+      "storage_path": "media/penguin-beach.jpg"
+    },
+    {
+      "file": "paper-preview.png",
+      "primary_record": "MED_IMG_003",
+      "storage_path": "media/paper-preview.png"
+    },
+    {
+      "file": "maitri-station.jpg",
+      "primary_record": "MED_STATION_MAITRI",
+      "storage_path": "media/maitri-station.jpg"
+    },
+    {
+      "file": "dakshin-gangotri-station.jpg",
+      "primary_record": "MED_STATION_DAKSHIN_GANGOTRI",
+      "storage_path": "media/dakshin-gangotri-station.jpg"
+    },
+    {
+      "file": "himadri-inauguration.jpg",
+      "primary_record": "MED_STATION_HIMADRI",
+      "storage_path": "media/himadri-inauguration.jpg"
+    },
+    {
+      "file": "bharati-larsemann-context.jpg",
+      "primary_record": "MED_CONTEXT_BHARATI",
+      "storage_path": "media/bharati-larsemann-context.jpg"
+    },
+    {
+      "file": "himansh-chandra-context.jpg",
+      "primary_record": "MED_CONTEXT_HIMANSH",
+      "storage_path": "media/himansh-chandra-context.jpg"
+    },
+    {
+      "file": "indarc-kongsfjorden-context.jpg",
+      "primary_record": "MED_CONTEXT_INDARC",
+      "storage_path": "media/indarc-kongsfjorden-context.jpg"
+    }
+  ]
+}

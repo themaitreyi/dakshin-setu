@@ -1,0 +1,220 @@
+{
+  "stations": [
+    {
+      "id": "STATION_DG",
+      "name": "Dakshin Gangotri",
+      "code": "DG",
+      "region": "Antarctic",
+      "location": "Princess Astrid Coast, Queen Maud Land, East Antarctica",
+      "coordinates": {
+        "latitude": "-70.7500",
+        "longitude": "11.6333",
+        "elevation_meters": 15,
+        "terrain": "Floating Ice Shelf"
+      },
+      "timeline": {
+        "construction_start": "1983-12-27",
+        "commissioned": "1984-02-25",
+        "decommissioned": "1990-01-01",
+        "historic_status": "Antarctic Treaty Historic Site and Monument No. 44"
+      },
+      "engineering": {
+        "structure": "Two-storey prefabricated timber container structure mounted on heavy wooden skids",
+        "power_generation": "3x 62.5 kVA Kirloskar diesel generator sets",
+        "water_system": "Sub-surface snow melting tank using generator exhaust waste heat recovery",
+        "winter_capacity": 12,
+        "summer_capacity": 40
+      },
+      "scientific_facilities": [
+        "Automatic Weather Station recording surface wind, air temperature, and solar flux",
+        "Fluxgate magnetometer for auroral electrojet magnetic field observations",
+        "HF radio communication array with New Delhi"
+      ],
+      "historical_significance": "India's first permanent Antarctic base, erected in a record 60 days during the 3rd Indian Scientific Expedition to Antarctica led by Dr. H.K. Srivastava."
+    },
+    {
+      "id": "STATION_MAITRI",
+      "name": "Maitri",
+      "code": "MAI",
+      "region": "Antarctic",
+      "location": "Schirmacher Oasis, Queen Maud Land, East Antarctica",
+      "coordinates": {
+        "latitude": "-70.7661",
+        "longitude": "11.7358",
+        "elevation_meters": 117,
+        "terrain": "Ice-free rocky permafrost oasis"
+      },
+      "timeline": {
+        "commissioned": "1989-01-01",
+        "status": "Operational (Year-round continuous)"
+      },
+      "engineering": {
+        "structure": "Elevated steel-stilt modular superstructure with insulated polyurethane sandwich panels",
+        "power_generation": "Multiple Volvo Penta diesel generators with heat exchangers",
+        "heating": "Circulating closed-loop glycol water heating system",
+        "water_supply": "Lake Priyadarshini freshwater lake with thermally traced intake line",
+        "winter_capacity": 25,
+        "summer_capacity": 65
+      },
+      "scientific_facilities": [
+        "Surface Meteorology & Atmospheric Radiation Suite (AWS, Kipp & Zonen pyranometers)",
+        "Brewer Spectrophotometer (Total Column Ozone and UV-B index)",
+        "Ozonesonde Balloon Sounding System",
+        "Geomagnetism & Space Weather Laboratory (CSIR-NGRI Digital Fluxgate Magnetometer, Riometer, VLF whistler receiver)",
+        "Permanent IGS GPS Tracking Station for Antarctic plate tectonic drift",
+        "Cold Microbiology & Limnology Laboratory with incubators and autoclaves",
+        "Human Physiology and Isolation Adaptation Lab"
+      ],
+      "historical_significance": "Second permanent base, continuously manned for over 35 years without a single day of shutdown. Built during the 8th ISEA led by Dr. R. Sengupta."
+    },
+    {
+      "id": "STATION_BHARATI",
+      "name": "Bharati",
+      "code": "BHA",
+      "region": "Antarctic",
+      "location": "Grovnes Peninsula, Larsemann Hills, East Antarctica",
+      "coordinates": {
+        "latitude": "-69.4078",
+        "longitude": "76.1872",
+        "elevation_meters": 35,
+        "terrain": "Coastal granitic bedrock and paragneiss hills"
+      },
+      "timeline": {
+        "commissioned": "2012-03-18",
+        "status": "Operational (Year-round continuous)"
+      },
+      "engineering": {
+        "structure": "Aerodynamic double-skin container modular envelope elevated on pilings to shed 200 km/h blizzard winds",
+        "power_generation": "Cogeneration Combined Heat and Power (CHP) plant with thermal recovery",
+        "environmental_systems": "Membrane bioreactor (MBR) zero-effluent wastewater recycling plant discharging pure greywater",
+        "winter_capacity": 47,
+        "summer_capacity": 72
+      },
+      "scientific_facilities": [
+        "ISRO / NRSC Antarctica Ground Station (AGS) tracking Indian Earth Observation Satellites (Oceansat, Cartosat, Resourcesat)",
+        "Walk-in -20°C Ice Core Processing and Cold Storage Laboratory",
+        "Oceanographic and Marine Biology Wet Lab with sea-ice sampling equipment",
+        "Atmospheric Physics & Aerosol Observatory (Aethalometer, Nephelometer, Sun Photometer)",
+        "High-Resolution Coastal Automatic Weather Station"
+      ],
+      "historical_significance": "Commissioned during the 31st ISEA. India became one of only a handful of nations operating multiple modern year-round Antarctic research stations."
+    },
+    {
+      "id": "STATION_HIMADRI",
+      "name": "Himadri",
+      "code": "HIM",
+      "region": "Arctic",
+      "location": "Ny-Ålesund, Spitsbergen, Svalbard Archipelago, Norway",
+      "coordinates": {
+        "latitude": "78.9167",
+        "longitude": "11.9333",
+        "elevation_meters": 10,
+        "terrain": "Coastal high-Arctic permafrost fjord"
+      },
+      "timeline": {
+        "inaugurated": "2008-07-01",
+        "first_winter_expedition": "2023-12-19",
+        "status": "Operational (Year-round since 2023)"
+      },
+      "engineering": {
+        "structure": "Renovated historical Arctic timber building conforming to Kings Bay AS conservation guidelines",
+        "power_supply": "Ny-Ålesund village microgrid powered by district cogeneration",
+        "winter_capacity": 8,
+        "summer_capacity": 16
+      },
+      "scientific_facilities": [
+        "Aerosol Physics Suite at Gruvebadet Clean Atmospheric Laboratory",
+        "Magee Scientific AE-33 7-wavelength Aethalometer for Black Carbon",
+        "METEK Micro Rain Radar-2 (MRR) for boundary layer precipitation dynamics",
+        "OTT PARSIVEL Optical Laser Disdrometer for hydrometeor size spectra",
+        "Glacier Mass Balance field stations at Vestre Lovénbreen and Austre Brøggerbreen",
+        "Marine Fjord Ecology Lab investigating Kongsfjorden pelagic ecosystem"
+      ],
+      "historical_significance": "Inaugurated on 1 July 2008, establishing India as the 11th country with a permanent research base at the world's northernmost scientific settlement."
+    },
+    {
+      "id": "STATION_INDARC",
+      "name": "IndARC Moored Observatory",
+      "code": "INDARC",
+      "region": "Arctic",
+      "location": "Kongsfjorden Fjord, Svalbard",
+      "coordinates": {
+        "latitude": "78.9833",
+        "longitude": "11.8167",
+        "water_depth_meters": 192,
+        "platform_type": "Subsurface taut-wire moored array"
+      },
+      "timeline": {
+        "deployed": "2014-07-23",
+        "service_interval": "Annual recovery, sensor recalibration, data download, and redeployment"
+      },
+      "sensor_payload": [
+        "Seabird SBE-37 MicroCAT CTD sensors at multiple depths (temp, conductivity, depth)",
+        "Aanderaa SeaGuard Recording Doppler Current Profiler (RDCP)",
+        "WetLabs ECO-FLNTU combination fluorometer and optical turbidity sensor",
+        "Aanderaa Optode Dissolved Oxygen sensors",
+        "Acoustic release transponders for retrieval triggering"
+      ],
+      "historical_significance": "India's first multi-sensor subsurface moored observatory deployed in the high Arctic. Tracks seasonal intrusion of warm Atlantic Water into the Arctic fjord system."
+    },
+    {
+      "id": "STATION_HIMANSH",
+      "name": "Himansh",
+      "code": "HMN",
+      "region": "Himalaya",
+      "location": "Sutri Dhaka, Chandra Basin, Lahaul-Spiti, Himachal Pradesh",
+      "coordinates": {
+        "latitude": "32.4000",
+        "longitude": "77.6167",
+        "elevation_meters": 4080,
+        "terrain": "High-altitude glaciated alpine valley"
+      },
+      "timeline": {
+        "inaugurated": "2016-10-09",
+        "status": "Operational (Seasonal April to November plus automated winter logging)"
+      },
+      "engineering": {
+        "structure": "Specially insulated weather-proof containerized modules engineered for sub-zero temperatures and high wind loads",
+        "power_supply": "Solar photovoltaic hybrid system backed up by silent diesel generators"
+      },
+      "scientific_facilities": [
+        "High-altitude Campbell Scientific Automated Weather Station (AWS)",
+        "Leica Viva Differential Global Positioning System (DGPS) for ice velocity",
+        "Ground Penetrating Radar (GPR) for ice depth and bed topography profiling",
+        "Network of glaciological ablation stakes across Sutri Dhaka, Batal, and Samudra Tapu glaciers",
+        "Cryogenic and refrigerated storage for glacial ice and water chemistry samples"
+      ],
+      "historical_significance": "India's dedicated high-altitude research station monitoring the Himalayan Cryosphere ('The Third Pole'), which feeds major South Asian river systems."
+    }
+  ],
+  "vessels": [
+    {
+      "name": "ORV Sagar Kanya",
+      "type": "Oceanographic Research Vessel",
+      "owner": "Ministry of Earth Sciences, Govt. of India",
+      "length_meters": 100.34,
+      "breadth_meters": 16.39,
+      "capabilities": [
+        "Multi-beam swath bathymetry survey systems",
+        "24-bottle CTD rosette with deep-sea hydrographic winch (up to 6000 m)",
+        "Acoustic Doppler Current Profiler (ADCP)",
+        "Piston and gravity corers for sediment recovery",
+        "Dynamic positioning system"
+      ],
+      "polar_role": "Chartered flagship vessel that conducted the landmark pilot Indian Southern Ocean Expedition in 2004."
+    },
+    {
+      "name": "ORV Sagar Nidhi",
+      "type": "Ice-Class Oceanographic Research Vessel",
+      "owner": "National Institute of Ocean Technology / MoES",
+      "length_meters": 104.0,
+      "ice_classification": "Ice-strengthened hull (classified for operations in floating polar ice up to 0.4 m)",
+      "capabilities": [
+        "Dynamic Positioning DP-2",
+        "Launch and recovery systems for Autonomous Underwater Vehicles (AUVs) and ROVs",
+        "Deep-water CTD, deep sub-bottom profiler, marine meteorological station"
+      ],
+      "polar_role": "Operates multi-disciplinary cruises in sub-Antarctic and Southern Ocean waters investigating carbon fluxes."
+    }
+  ]
+}

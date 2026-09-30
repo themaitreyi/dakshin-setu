@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is Maitri station?",
+    "expected_evidence": "Maitri completed in 1989 in Schirmacher Oasis"
+  },
+  {
+    "question": "What is Bharati station?",
+    "expected_evidence": "Bharati commissioned in 2012 in Larsemann Hills"
+  },
+  {
+    "question": "What research is done at Himadri?",
+    "expected_evidence": "India's Arctic research base at Ny-\u00c5lesund, Svalbard"
+  }
+]

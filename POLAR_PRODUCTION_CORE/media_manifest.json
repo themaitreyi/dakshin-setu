@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "title": "Permitted Media Manifest"
+  },
+  "media_items": [
+    {
+      "media_id": "MED_IMG_001",
+      "filename": "arctic-sea-ice.jpg",
+      "type": "photo",
+      "caption": "NASA Scientific Visualization of Arctic seasonal sea ice extent and freeze-up.",
+      "location": "Circumpolar Arctic Basin",
+      "date": "2010-03-29",
+      "photographer_creator": "NASA Goddard Space Flight Center Scientific Visualization Studio",
+      "source": "https://svs.gsfc.nasa.gov/3698/",
+      "licence": "NASA Open Media / Public Domain",
+      "credit_line": "NASA/Goddard Space Flight Center Scientific Visualization Studio; Blue Marble data courtesy of Reto Stockli",
+      "related_station": "Himadri",
+      "related_expedition": "Arctic Expeditions"
+    },
+    {
+      "media_id": "MED_VID_001",
+      "filename": "arctic-sea-ice.mp4",
+      "type": "video",
+      "caption": "Time-lapse animation illustrating Arctic sea-ice freezing and retreat dynamics.",
+      "location": "Circumpolar Arctic Basin",
+      "date": "2010-03-29",
+      "photographer_creator": "NASA Scientific Visualization Studio",
+      "source": "https://svs.gsfc.nasa.gov/3698/",
+      "licence": "Public Domain (NASA SVS Reuse Policy)",
+      "credit_line": "NASA / GSFC Scientific Visualization Studio",
+      "related_station": "Himadri",
+      "related_expedition": "Arctic Expeditions"
+    },
+    {
+      "media_id": "MED_IMG_002",
+      "filename": "penguin-beach.jpg",
+      "type": "photo",
+      "caption": "Magellanic penguins near Punta Arenas, Chile, photographed during NASA Operation IceBridge field deployment.",
+      "location": "Punta Arenas, Strait of Magellan, Chile",
+      "date": "2012-11-05",
+      "photographer_creator": "Maria-Jose Vinas / NASA",
+      "source": "https://www.nasa.gov/image-article/penguin-beach/",
+      "licence": "NASA Educational and Informational Media Use",
+      "credit_line": "NASA / Maria-Jose Vinas",
+      "related_station": null,
+      "related_expedition": "Operation IceBridge"
+    },
+    {
+      "media_id": "MED_IMG_003",
+      "filename": "paper-preview.png",
+      "type": "photo",
+      "caption": "Graphical abstract and hydrographic section preview along 55\u00b0E in Ocean Science.",
+      "location": "Southern Ocean (55\u00b0E Transect)",
+      "date": "2025-02-12",
+      "photographer_creator": "Katsumata et al. / Copernicus Publications",
+      "source": "https://doi.org/10.5194/os-21-419-2025",
+      "licence": "Creative Commons Attribution 4.0 International (CC-BY 4.0)",
+      "credit_line": "\u00a9 Authors 2025. Ocean Science, CC-BY 4.0",
+      "related_station": null,
+      "related_expedition": "Southern Ocean Research Cruise"
+    }
+  ]
+}

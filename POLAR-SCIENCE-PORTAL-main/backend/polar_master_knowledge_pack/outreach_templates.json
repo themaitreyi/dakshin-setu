@@ -1,0 +1,72 @@
+{
+  "audiences": {
+    "students": {
+      "target_group": "School and undergraduate students",
+      "tone": "Engaging, inquisitive, analogy-rich",
+      "reading_level": "Grade 7–10",
+      "rules": [
+        "Avoid dense technical jargon; explain terms when first used (e.g., explain salinity as saltiness).",
+        "Use real-world analogies (e.g., compare ocean conveyor belt to a planetary radiator).",
+        "Highlight the human adventure and scientific curiosity of polar exploration."
+      ]
+    },
+    "general-public": {
+      "target_group": "Citizens, website visitors, curious adults",
+      "tone": "Accessible, informative, inspiring",
+      "reading_level": "High School / General Newspaper",
+      "rules": [
+        "Emphasize why this research matters to everyday life, Indian monsoons, and sea-level change.",
+        "Keep claims factual and strictly grounded in repository evidence.",
+        "Include actionable context about India's scientific leadership in polar research."
+      ]
+    },
+    "journalists": {
+      "target_group": "Science writers, journalists, media correspondents",
+      "tone": "Objective, inverted-pyramid news format, precise",
+      "reading_level": "Professional",
+      "rules": [
+        "Lead with the most significant scientific finding in the first paragraph.",
+        "Provide exact dates, locations, sensor specifications, and institutional attributions.",
+        "Include placeholder quotes for scientific expedition leaders and MoES representatives."
+      ]
+    },
+    "educators": {
+      "target_group": "Science teachers, professors, educational content creators",
+      "tone": "Pedagogical, structured, curriculum-aligned",
+      "reading_level": "College / Educator",
+      "rules": [
+        "Structure with key learning outcomes, core scientific concepts, and discussion questions.",
+        "Connect findings to geography and physics curricula (thermodynamics, albedo, food webs)."
+      ]
+    }
+  },
+  "formats": {
+    "public-summary": {
+      "description": "Concise non-technical digest of research findings",
+      "target_word_count": "150–250 words",
+      "structure": ["Overview Headline", "Key Takeaway", "Why It Matters", "Source Footnote"]
+    },
+    "website-article": {
+      "description": "Full-length journalistic feature for outreach portals",
+      "target_word_count": "400–650 words",
+      "structure": ["Title", "Lead Paragraph", "The Science in Action", "Global and Regional Impact", "Future Outlook", "Sources & Review Disclaimer"]
+    },
+    "social-thread": {
+      "description": "Engaging 3–5 post thread for social media dissemination",
+      "target_word_count": "3 to 5 posts (under 280 characters each)",
+      "structure": [
+        "Post 1: Eye-catching hook or question",
+        "Post 2: The scientific discovery backed by data",
+        "Post 3: What Indian scientists are doing on the ice",
+        "Post 4: Key link and verified repository citation"
+      ],
+      "recommended_hashtags": ["#PolarScience", "#NCPOR", "#MoES", "#Antarctica", "#Himadri", "#ClimateChange"]
+    },
+    "educational-explainer": {
+      "description": "Classroom-ready scientific breakdown",
+      "target_word_count": "250–400 words",
+      "structure": ["Concept Question", "Simple Explanation", "Did You Know? Box", "Discussion Question"]
+    }
+  },
+  "mandatory_disclaimer": "GENERATED DRAFT CONTENT — PENDING HUMAN REVIEW. This outreach material is synthesized using verified repository records and must be reviewed by a scientific curator prior to public dissemination."
+}

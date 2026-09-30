@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "entity": "publication",
+      "match_keys": [
+        "doi"
+      ]
+    },
+    {
+      "entity": "dataset",
+      "match_keys": [
+        "dataset_id",
+        "source_url"
+      ]
+    },
+    {
+      "entity": "file",
+      "match_keys": [
+        "sha256"
+      ]
+    }
+  ]
+}

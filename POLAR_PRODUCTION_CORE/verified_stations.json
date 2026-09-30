@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "title": "Verified Indian Polar Research Facilities Register",
+    "authority": "Ministry of Earth Sciences (MoES), Government of India"
+  },
+  "stations": [
+    {
+      "id": "STN_MAITRI",
+      "name": "Maitri Station",
+      "region": "Antarctica",
+      "coordinates": {
+        "lat": -70.7661,
+        "lon": 11.7358,
+        "elevation_m": 117
+      },
+      "location_description": "Schirmacher Oasis, Queen Maud Land",
+      "status": "Operational (Continuous year-round)",
+      "inaugurated": "1989-01-01",
+      "facilities": [
+        "Meteorology AWS",
+        "Brewer Ozone Spectrophotometer",
+        "NGRI Broadband Seismograph",
+        "IGS GPS",
+        "Lake Priyadarshini heated water line"
+      ],
+      "capacity": {
+        "winter": 25,
+        "summer": 65
+      },
+      "official_source": "https://npdc.ncpor.res.in/npdc/antarctica_home.action"
+    },
+    {
+      "id": "STN_BHARATI",
+      "name": "Bharati Station",
+      "region": "Antarctica",
+      "coordinates": {
+        "lat": -69.4078,
+        "lon": 76.1872,
+        "elevation_m": 35
+      },
+      "location_description": "Grovnes Peninsula, Larsemann Hills",
+      "status": "Operational (Continuous year-round)",
+      "inaugurated": "2012-03-18",
+      "facilities": [
+        "ISRO Antarctica Ground Station (AGS)",
+        "Zero-effluent MBR wastewater recycling",
+        "Cogeneration Combined Heat & Power",
+        "Cold Ice-core lab (-20\u00b0C)"
+      ],
+      "capacity": {
+        "winter": 47,
+        "summer": 72
+      },
+      "official_source": "https://npdc.ncpor.res.in/npdc/antarctica_home.action"
+    },
+    {
+      "id": "STN_DAKSHIN_GANGOTRI",
+      "name": "Dakshin Gangotri",
+      "region": "Antarctica",
+      "coordinates": {
+        "lat": -70.75,
+        "lon": 11.6333,
+        "elevation_m": 15
+      },
+      "location_description": "Princess Astrid Coast Ice Shelf",
+      "status": "Decommissioned (1990); Antarctic Treaty Historic Site No. 44",
+      "inaugurated": "1984-02-25",
+      "facilities": [
+        "Unmanned automated weather sensor",
+        "Magnetic variometer shelter"
+      ],
+      "capacity": {
+        "winter": 12,
+        "summer": 40
+      },
+      "official_source": "https://npdc.ncpor.res.in/"
+    },
+    {
+      "id": "STN_HIMADRI",
+      "name": "Himadri Station",
+      "region": "Arctic",
+      "coordinates": {
+        "lat": 78.9167,
+        "lon": 11.9333,
+        "elevation_m": 10
+      },
+      "location_description": "Ny-\u00c5lesund, Spitsbergen, Svalbard, Norway",
+      "status": "Operational (Year-round continuous since Dec 2023)",
+      "inaugurated": "2008-07-01",
+      "facilities": [
+        "Gruvebadet Atmospheric Lab",
+        "Aethalometer AE-33",
+        "Micro Rain Radar",
+        "Laser Disdrometer",
+        "Kongsfjorden marine lab"
+      ],
+      "capacity": {
+        "winter": 8,
+        "summer": 16
+      },
+      "official_source": "https://www.ncpor.res.in/arctics"
+    },
+    {
+      "id": "STN_INDARC",
+      "name": "IndARC Moored Observatory",
+      "region": "Arctic",
+      "coordinates": {
+        "lat": 78.9833,
+        "lon": 11.8167,
+        "depth_m": 192
+      },
+      "location_description": "Kongsfjorden Fjord, Svalbard",
+      "status": "Operational (Annual turnaround)",
+      "inaugurated": "2014-07-23",
+      "facilities": [
+        "Seabird SBE-37 MicroCAT CTD array",
+        "Aanderaa SeaGuard RDCP",
+        "WetLabs ECO-FLNTU",
+        "Oxygen Optodes"
+      ],
+      "official_source": "https://data.ncpor.res.in/newhtml/3"
+    },
+    {
+      "id": "STN_HIMANSH",
+      "name": "Himansh Research Station",
+      "region": "Himalaya",
+      "coordinates": {
+        "lat": 32.4,
+        "lon": 77.6167,
+        "elevation_m": 4080
+      },
+      "location_description": "Sutri Dhaka, Chandra Basin, Lahaul-Spiti, Himachal Pradesh",
+      "status": "Operational (High Altitude Cryosphere Base)",
+      "inaugurated": "2016-10-09",
+      "facilities": [
+        "Automatic Weather Station",
+        "Leica Viva DGPS",
+        "MALA Ground Penetrating Radar",
+        "Cryogenic core storage"
+      ],
+      "official_source": "https://www.ncaor.gov.in/pages/view/115/426-himansh"
+    }
+  ],
+  "vessels": [
+    {
+      "name": "ORV Sagar Kanya",
+      "type": "Oceanographic Research Vessel",
+      "length_m": 100.34,
+      "beam_m": 16.39,
+      "owner": "Ministry of Earth Sciences, Govt. of India",
+      "role": "Multidisciplinary ocean cruises; supported pilot Indian Southern Ocean Expedition 2004."
+    },
+    {
+      "name": "ORV Sagar Nidhi",
+      "type": "Ice-Class Oceanographic Research Vessel",
+      "length_m": 104.0,
+      "hull_ice_class": "Classified for floating ice up to 0.4m",
+      "owner": "National Institute of Ocean Technology / MoES",
+      "role": "Southern Ocean dynamic positioning and sub-Antarctic biogeochemical surveys."
+    }
+  ]
+}

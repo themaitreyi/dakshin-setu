@@ -1,0 +1,62 @@
+{
+  "regions": [
+    "Antarctic",
+    "Arctic",
+    "Himalaya",
+    "Southern Ocean",
+    "Multiple"
+  ],
+  "stations": [
+    "Maitri",
+    "Bharati",
+    "Dakshin Gangotri",
+    "Himadri",
+    "IndARC",
+    "Himansh"
+  ],
+  "resource_types": [
+    "report",
+    "publication",
+    "dataset",
+    "photo",
+    "video",
+    "expedition",
+    "activity"
+  ],
+  "access_levels": [
+    "online",
+    "offline",
+    "restricted",
+    "metadata-only"
+  ],
+  "verification_levels": [
+    "curator-reviewed",
+    "official-gazette-verified",
+    "doi-crossref-verified",
+    "pending-review"
+  ],
+  "licences": [
+    "CC-BY-4.0",
+    "CC-BY-SA-4.0",
+    "CC0-1.0",
+    "OGL-India",
+    "NASA-SVS-Policy",
+    "All-Rights-Reserved"
+  ],
+  "research_themes": [
+    "Glaciology & Paleoclimatology",
+    "Atmospheric Physics & Space Weather",
+    "Physical & Chemical Oceanography",
+    "Polar Biology & Cold Extremophiles",
+    "Geology & Solid Earth Geophysics",
+    "Policy & Environmental Governance"
+  ],
+  "standard_units": {
+    "temperature": "Celsius",
+    "velocity": "m/s",
+    "salinity": "psu",
+    "pressure": "hPa or dbar",
+    "radiation": "W/m^2",
+    "mass_concentration": "ng/m^3"
+  }
+}

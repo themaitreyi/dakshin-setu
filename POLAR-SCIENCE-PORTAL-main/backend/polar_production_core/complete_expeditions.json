@@ -1,0 +1,1080 @@
+{
+  "metadata": {
+    "title": "Complete Indian Polar Expeditions Register",
+    "last_updated": "2026-09-29T19:34:20.923836+00:00",
+    "authoritative_source": "National Centre for Polar and Ocean Research (NCPOR)",
+    "official_url": "https://ncps.ncpor.res.in/"
+  },
+  "antarctic_expeditions_1_to_44": [
+    {
+      "expedition_number": 1,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1981\u20131982",
+      "leader": "Dr. S. Z. Qasim",
+      "vessel": "MV Polar Circle",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Landed 9 Jan 1982; setup unmanned weather shelter at Dakshin Gangotri camp.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 2,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1982\u20131983",
+      "leader": "V. K. Raina",
+      "vessel": "MV Polar Circle",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Reconnaissance of Schirmacher Oasis for future permanent station site.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 3,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1983\u20131984",
+      "leader": "Dr. H. K. Srivastava",
+      "vessel": "MV Finnpolaris",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Constructed Dakshin Gangotri base in 60 days; left 1st wintering team of 12.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 4,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1984\u20131985",
+      "leader": "Dr. B. B. Bhattacharya",
+      "vessel": "MV Finnpolaris",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "First relief turnover; installed permanent magnetic observatory.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 5,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1985\u20131986",
+      "leader": "M. K. Kaul",
+      "vessel": "MV Polar Queen",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Geological mapping of Wohlthat Mountains and Humboldt Ridge.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 6,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1986\u20131987",
+      "leader": "Dr. A. H. Parulekar",
+      "vessel": "MV Polar Queen",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Krill stock and marine biomass assessment in Lazarev Sea.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 7,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1987\u20131988",
+      "leader": "Dr. R. M. Dhawan",
+      "vessel": "MV Polar Queen",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Inspection of ice accumulation on Dakshin Gangotri structure.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 8,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1988\u20131989",
+      "leader": "Dr. R. Sengupta",
+      "vessel": "MV Thuleland",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Constructed Maitri station in ice-free Schirmacher Oasis.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 9,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1989\u20131990",
+      "leader": "Rasik Ravindra",
+      "vessel": "MV Thuleland",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Maitri operationalized; Dakshin Gangotri decommissioned.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 10,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1990\u20131991",
+      "leader": "A. K. Hanjura",
+      "vessel": "MV Henrik Kr\u00f8yer",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Inauguration of ozonesonde balloon launch program over Maitri.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 11,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1991\u20131992",
+      "leader": "Dr. S. Mukerji",
+      "vessel": "MV Henrik Kr\u00f8yer",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Geomagnetic pulsation and VLF whistler wave monitoring.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 12,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1992\u20131993",
+      "leader": "Dr. P. S. V. Rao",
+      "vessel": "MV Polar Bird",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Permanent meteorological data logging automated at Maitri.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 13,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1993\u20131994",
+      "leader": "G. P. Sharma",
+      "vessel": "MV Polar Bird",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Paleoclimatic lake sediment coring across Schirmacher Oasis.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 14,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1994\u20131995",
+      "leader": "Dr. S. D. Sharma",
+      "vessel": "MV Polar Bird",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "High-frequency radio propagation and solar flare studies.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 15,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1995\u20131996",
+      "leader": "Arun Chaturvedi",
+      "vessel": "MV Polar Bird",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "First shallow continental shelf ice-core drilling (60 m depth).",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 16,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1996\u20131997",
+      "leader": "Dr. A. L. Koppar",
+      "vessel": "MV Polar Bird",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Establishment of greenhouse experimental modules at Maitri.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 17,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1997\u20131998",
+      "leader": "Dr. K. S. Somayajulu",
+      "vessel": "MV Polar Bird",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Atmospheric aerosol and optical thickness monitoring.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 18,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1998\u20131999",
+      "leader": "Ajay Dhar",
+      "vessel": "MV Polar Bird",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "CSIR-NGRI permanent broadband seismological observatory established.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 19,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "1999\u20132000",
+      "leader": "Arun Chaturvedi",
+      "vessel": "MV Polar Bird",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Glaciological snout monitoring of continental ice-sheet edge.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 20,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2000\u20132001",
+      "leader": "M. Javed Beg",
+      "vessel": "MV Magdalena Green",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Permanent IGS GPS tracking station installed at Maitri.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 21,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2001\u20132002",
+      "leader": "Dr. R. P. Lal",
+      "vessel": "MV Magdalena Green",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Solar radiation budget and surface albedo measurements.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 22,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2002\u20132003",
+      "leader": "Arun Chaturvedi",
+      "vessel": "MV Magdalena Green",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Cold-adapted bacterial enzyme screening in Lake Priyadarshini.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 23,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2003\u20132004",
+      "leader": "Dr. S. Jayaram",
+      "vessel": "MV Emerald Sea",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Psychrophilic microbial genetics and UV-B impact research.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 24,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2004\u20132005",
+      "leader": "Rajesh Asthana",
+      "vessel": "MV Emerald Sea",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Larsemann Hills reconnaissance identifying Grovnes Peninsula.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 25,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2005\u20132006",
+      "leader": "Dr. L. S. Rathore",
+      "vessel": "MV Emerald Sea",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Environmental impact baseline assessments for third station.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 26,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2006\u20132007",
+      "leader": "Dr. Jayapaul D.",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Topographic contouring and container staging at Larsemann Hills.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 27,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2007\u20132008",
+      "leader": "Arun Chaturvedi",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Pre-construction environmental clearance (CEE) under Antarctic Treaty.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 28,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2008\u20132009",
+      "leader": "Dr. P. Malhotra",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Core excavation and foundation column layout for Bharati.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 29,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2009\u20132010",
+      "leader": "Dr. P. Elango",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Subsurface permafrost temperature logging array deployed.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 30,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2010\u20132011",
+      "leader": "Dr. Rajesh Asthana",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Erection of Bharati envelope; historic South Pole Ski Expedition.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 31,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2011\u20132012",
+      "leader": "Dr. Rupesh Das / K. Jeeva",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Commissioned Bharati Station (18 Mar 2012); integrated ISRO AGS.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 32,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2012\u20132013",
+      "leader": "M. Javed Beg",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "First winter turnover at Bharati Station; dual-station wintering.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 33,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2013\u20132014",
+      "leader": "Dr. Arun Hanchinal",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "High-latitude sea-ice physics and coastal oceanography.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 34,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2014\u20132015",
+      "leader": "Dr. B. K. Jain",
+      "vessel": "MV Ivan Papanin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Atmospheric boundary layer turbulence and aerosol profiling.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 35,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2015\u20132016",
+      "leader": "M. Javed Beg",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Completed landmark 3,000 km Maitri-to-Bharati overland traverse.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 36,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2016\u20132017",
+      "leader": "Dr. Amit Dharwadkar",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Deep firn air sampling and stable isotope paleothermometry.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 37,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2017\u20132018",
+      "leader": "Dr. Shailendra Saini",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Modernization of Maitri fuel storage and life-support modules.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 38,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2018\u20132019",
+      "leader": "Dr. M. Ravichandran",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Ice-shelf calving dynamics and ocean-ice interaction.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 39,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2019\u20132020",
+      "leader": "Dr. E. Ramesh",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Microplastic surveying in Antarctic coastal snow and pack ice.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 40,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2020\u20132021",
+      "leader": "Dr. Atul Suresh Kulkarni",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "40th anniversary milestone under strict COVID-19 quarantine.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 41,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2021\u20132022",
+      "leader": "Dr. Shailendra Saini",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Deep ice coring at Amery Ice Shelf junction.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 42,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2022\u20132023",
+      "leader": "Bipul Chattopadhyay",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Architectural site surveys for Maitri-II replacement base.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 43,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2023\u20132024",
+      "leader": "Dr. Yogesh Ray",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Bio-banking of lake sediments; comprehensive geological mapping.",
+      "status": "Completed"
+    },
+    {
+      "expedition_number": 44,
+      "program": "Indian Scientific Expedition to Antarctica (ISEA)",
+      "season": "2024\u20132025",
+      "leader": "NCPOR Polar Directorate",
+      "vessel": "MV Vasiliy Golovnin",
+      "participating_institutes": [
+        "NCPOR",
+        "MoES",
+        "GSI",
+        "IMD",
+        "NIO",
+        "NGRI",
+        "NPL",
+        "ISRO",
+        "Indian Navy"
+      ],
+      "objectives_and_achievements": "Maitri-II foundation engineering and telemetry modernization.",
+      "status": "Completed"
+    }
+  ],
+  "arctic_expeditions_1_to_14": [
+    {
+      "expedition_number": 1,
+      "year": 2007,
+      "season": "Summer",
+      "leader": "Rasik Ravindra",
+      "significance": "Maiden Arctic exploration; feasibility study at Ny-\u00c5lesund, Svalbard."
+    },
+    {
+      "expedition_number": 2,
+      "year": 2008,
+      "season": "Summer",
+      "leader": "NCAOR Polar Group",
+      "significance": "Inauguration of Himadri Research Station on 1 July 2008."
+    },
+    {
+      "expedition_number": 3,
+      "year": 2009,
+      "season": "Summer",
+      "leader": "Dr. K. P. Krishnan",
+      "significance": "Aerosol mass concentration measurements at Gruvebadet Laboratory."
+    },
+    {
+      "expedition_number": 4,
+      "year": 2010,
+      "season": "Summer",
+      "leader": "Dr. M. Ravichandran",
+      "significance": "Fjord hydrography and phytoplankton bloom dynamics in Kongsfjorden."
+    },
+    {
+      "expedition_number": 5,
+      "year": 2011,
+      "season": "Summer",
+      "leader": "Dr. S. Rajan",
+      "significance": "Glacier mass balance benchmarks on Vestre Lov\u00e9nbreen."
+    },
+    {
+      "expedition_number": 6,
+      "year": 2012,
+      "season": "Summer",
+      "leader": "Dr. Thamban Meloth",
+      "significance": "Snow chemistry, mercury deposition, and black carbon analysis."
+    },
+    {
+      "expedition_number": 7,
+      "year": 2013,
+      "season": "Summer",
+      "leader": "Dr. K. P. Krishnan",
+      "significance": "Design and mooring architecture formulation for IndARC."
+    },
+    {
+      "expedition_number": 8,
+      "year": 2014,
+      "season": "Summer",
+      "leader": "Dr. S. Rajan",
+      "significance": "Deployment of IndARC underwater mooring observatory in Kongsfjorden."
+    },
+    {
+      "expedition_number": 9,
+      "year": 2015,
+      "season": "Summer",
+      "leader": "NCPOR Team",
+      "significance": "First annual retrieval, recalibration, and redeployment of IndARC."
+    },
+    {
+      "expedition_number": 10,
+      "year": 2016,
+      "season": "Summer",
+      "leader": "Dr. K. P. Krishnan",
+      "significance": "Detection of warm Atlantic Water intrusion during winter using IndARC."
+    },
+    {
+      "expedition_number": 11,
+      "year": 2017,
+      "season": "Summer",
+      "leader": "Dr. M. V. Ramesh",
+      "significance": "Atmospheric radar profiling using Micro Rain Radar (MRR)."
+    },
+    {
+      "expedition_number": 12,
+      "year": 2018,
+      "season": "Summer",
+      "leader": "Dr. N. Anilkumar",
+      "significance": "Long-term aerosol radiative forcing calculations at Gruvebadet."
+    },
+    {
+      "expedition_number": 13,
+      "year": 2022,
+      "season": "Summer",
+      "leader": "Dr. Yogesh Ray",
+      "significance": "Post-pandemic resumption of glaciological snout surveys."
+    },
+    {
+      "expedition_number": 14,
+      "year": 2023,
+      "season": "Winter & Summer",
+      "leader": "MoES / NCPOR Directorate",
+      "significance": "Flag-off of India's maiden Winter Arctic Scientific Expedition (Dec 2023)."
+    }
+  ],
+  "southern_ocean_expeditions": [
+    {
+      "expedition_number": 1,
+      "year": 2004,
+      "vessel": "ORV Sagar Kanya",
+      "leader": "Dr. M. Sudhakar",
+      "track": "40\u00b0S to 60\u00b0S along 45\u00b0E",
+      "significance": "Pilot multidisciplinary Southern Ocean voyage studying frontal zones."
+    },
+    {
+      "expedition_number": 2,
+      "year": 2006,
+      "vessel": "ORV Sagar Kanya",
+      "leader": "Dr. N. Anilkumar",
+      "track": "Sub-Tropical to Polar Front",
+      "significance": "Carbon dioxide flux and primary biological productivity."
+    },
+    {
+      "expedition_number": 3,
+      "year": 2009,
+      "vessel": "ORV Sagar Kanya",
+      "leader": "Dr. N. Anilkumar",
+      "track": "Sub-Antarctic Zone",
+      "significance": "Iron limitation and coccolithophore blooms."
+    },
+    {
+      "expedition_number": 4,
+      "year": 2010,
+      "vessel": "ORV Sagar Kanya",
+      "leader": "Dr. R. K. Sharma",
+      "track": "48\u00b0S to 66\u00b0S",
+      "significance": "Deep CTD casts investigating Antarctic Circumpolar Current."
+    },
+    {
+      "expedition_number": 5,
+      "year": 2011,
+      "vessel": "ORV Sagar Kanya",
+      "leader": "Dr. N. Anilkumar",
+      "track": "Southern Ocean sector",
+      "significance": "Microbial diversity and microbial loop efficiency."
+    },
+    {
+      "expedition_number": 6,
+      "year": 2013,
+      "vessel": "ORV Sagar Nidhi",
+      "leader": "Dr. P. Sabu",
+      "track": "57\u00b030'E Transect",
+      "significance": "Eddy kinetic energy and frontal displacement."
+    },
+    {
+      "expedition_number": 7,
+      "year": 2014,
+      "vessel": "ORV Sagar Nidhi",
+      "leader": "Dr. N. Anilkumar",
+      "track": "Prydz Bay & ACC",
+      "significance": "Bio-optical characteristics and chlorophyll-a depth profiles."
+    },
+    {
+      "expedition_number": 8,
+      "year": 2015,
+      "vessel": "ORV Sagar Kanya",
+      "leader": "Dr. N. Anilkumar",
+      "track": "57\u00b030'E Transect",
+      "significance": "Deep water mass formation and AABW tracing."
+    },
+    {
+      "expedition_number": 9,
+      "year": 2017,
+      "vessel": "ORV Sagar Nidhi",
+      "leader": "Dr. P. Sabu",
+      "track": "Southern Ocean",
+      "significance": "Atmospheric boundary layer turbulence and DMS fluxes."
+    },
+    {
+      "expedition_number": 10,
+      "year": 2018,
+      "vessel": "ORV Sagar Nidhi",
+      "leader": "Dr. N. Anilkumar",
+      "track": "57\u00b030'E Transect",
+      "significance": "Antarctic Bottom Water warming and freshening rates."
+    },
+    {
+      "expedition_number": 11,
+      "year": 2020,
+      "vessel": "MV Vasiliy Golovnin",
+      "leader": "Dr. N. Anilkumar",
+      "track": "Sub-Antarctic to Ice Edge",
+      "significance": "Microplastic pollution monitoring in Southern Ocean waters."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "antarctic_expeditions": [
+    {
+      "expedition_number": 1,
+      "code": "1-ISEA",
+      "austral_season": "1981–1982",
+      "leader": "Dr. Syed Zahoor Qasim (Secretary, Department of Environment / Ocean Development)",
+      "vessel": "MV Polar Circle",
+      "departure_date": "1981-12-06",
+      "landing_date": "1982-01-09",
+      "key_milestones": "First Indian landing on Antarctica (Queen Maud Land). Set up unmanned weather shelter 'Dakshin Gangotri' base camp. Hoisted Indian flag on the White Continent."
+    },
+    {
+      "expedition_number": 2,
+      "code": "2-ISEA",
+      "austral_season": "1982–1983",
+      "leader": "V. K. Raina (Geological Survey of India)",
+      "vessel": "MV Polar Circle",
+      "key_milestones": "Surveyed Schirmacher Oasis rocky plateau for future permanent base. First physiological cold acclimatization experiments conducted."
+    },
+    {
+      "expedition_number": 3,
+      "code": "3-ISEA",
+      "austral_season": "1983–1984",
+      "leader": "Dr. Harsh K. Srivastava (Department of Ocean Development)",
+      "vessel": "MV Finnpolaris",
+      "key_milestones": "Constructed Dakshin Gangotri base in a record 60 days on the Princess Astrid ice shelf. Left the first 12-member Indian wintering team to overwinter in Antarctica."
+    },
+    {
+      "expedition_number": 4,
+      "code": "4-ISEA",
+      "austral_season": "1984–1985",
+      "leader": "Dr. B. B. Bhattacharya (Indian School of Mines, Dhanbad)",
+      "vessel": "MV Finnpolaris",
+      "key_milestones": "First relief of the wintering party. Installed permanent magnetic observatory at Dakshin Gangotri."
+    },
+    {
+      "expedition_number": 5,
+      "code": "5-ISEA",
+      "austral_season": "1985–1986",
+      "leader": "M. K. Kaul (Geological Survey of India)",
+      "vessel": "MV Polar Queen",
+      "key_milestones": "Extensive geological mapping of Wohlthat Mountains and Humboldt Ridge."
+    },
+    {
+      "expedition_number": 8,
+      "code": "8-ISEA",
+      "austral_season": "1988–1989",
+      "leader": "Dr. R. Sengupta (National Institute of Oceanography)",
+      "vessel": "MV Thuleland",
+      "key_milestones": "Constructed Maitri station on rocky permafrost ground in Schirmacher Oasis to replace Dakshin Gangotri."
+    },
+    {
+      "expedition_number": 9,
+      "code": "9-ISEA",
+      "austral_season": "1989–1990",
+      "leader": "Rasik Ravindra (Geological Survey of India)",
+      "vessel": "MV Thuleland",
+      "key_milestones": "Commissioned Maitri as India's main permanent operational base. Decommissioned Dakshin Gangotri as it became buried under snow."
+    },
+    {
+      "expedition_number": 10,
+      "code": "10-ISEA",
+      "austral_season": "1990–1991",
+      "leader": "A. K. Hanjura (National Physical Laboratory)",
+      "vessel": "MV Henrik Krøyer",
+      "key_milestones": "First routine ozonesonde balloon launch series to monitor the spring Antarctic Ozone Hole."
+    },
+    {
+      "expedition_number": 15,
+      "code": "15-ISEA",
+      "austral_season": "1995–1996",
+      "leader": "Arun Chaturvedi (Geological Survey of India)",
+      "vessel": "MV Polar Bird",
+      "key_milestones": "First shallow ice-core drilling on continental shelf (60 m depth) for paleoclimatic temperature reconstruction."
+    },
+    {
+      "expedition_number": 20,
+      "code": "20-ISEA",
+      "austral_season": "2000–2001",
+      "leader": "M. Javed Beg (NCAOR)",
+      "vessel": "MV Magdalena Green",
+      "key_milestones": "Installed permanent IGS GPS tracking station at Maitri linked to international geodetic network."
+    },
+    {
+      "expedition_number": 24,
+      "code": "24-ISEA",
+      "austral_season": "2004–2005",
+      "leader": "Rajesh Asthana (Geological Survey of India)",
+      "vessel": "MV Emerald Sea",
+      "key_milestones": "Reconnaissance expedition to Larsemann Hills identifying Grovnes Peninsula as site for India's 3rd station."
+    },
+    {
+      "expedition_number": 30,
+      "code": "30-ISEA",
+      "austral_season": "2010–2011",
+      "leader": "Dr. Rajesh Asthana (NCAOR)",
+      "vessel": "MV Ivan Papanin",
+      "key_milestones": "Erected structural superstructure for Bharati base. Conducted the historic 8-member Indian South Pole Ski Expedition reaching 90°S."
+    },
+    {
+      "expedition_number": 31,
+      "code": "31-ISEA",
+      "austral_season": "2011–2012",
+      "leader": "Dr. Rupesh Das & K. Jeeva",
+      "vessel": "MV Ivan Papanin",
+      "key_milestones": "Formal commissioning of Bharati Station on 18 March 2012. Integrated the ISRO Antarctica Ground Station."
+    },
+    {
+      "expedition_number": 35,
+      "code": "35-ISEA",
+      "austral_season": "2015–2016",
+      "leader": "M. Javed Beg (NCPOR)",
+      "vessel": "MV Vasiliy Golovnin",
+      "key_milestones": "Completed the landmark 3,000 km overland traverse from Maitri to Bharati across Princess Elizabeth Land."
+    },
+    {
+      "expedition_number": 40,
+      "code": "40-ISEA",
+      "austral_season": "2020–2021",
+      "leader": "Dr. Atul Suresh Kulkarni (NCPOR)",
+      "vessel": "MV Vasiliy Golovnin",
+      "key_milestones": "40th anniversary expedition. Conducted under zero-infection COVID-19 quarantine protocols via Cape Town."
+    },
+    {
+      "expedition_number": 43,
+      "code": "43-ISEA",
+      "austral_season": "2023–2024",
+      "leader": "Dr. Yogesh Ray (NCPOR)",
+      "vessel": "MV Vasiliy Golovnin",
+      "key_milestones": "Permafrost temperature profiling and lake microbial bio-banking; surveys for Maitri-II replacement base."
+    },
+    {
+      "expedition_number": 44,
+      "code": "44-ISEA",
+      "austral_season": "2024–2025",
+      "leader": "NCPOR Polar Mission Directorate",
+      "vessel": "MV Vasiliy Golovnin",
+      "key_milestones": "Modernized meteorological telemetry arrays and site preparation for the state-of-the-art Maitri-II station."
+    }
+  ],
+  "arctic_expeditions": [
+    {
+      "expedition_number": 1,
+      "year": 2007,
+      "month": "August",
+      "leader": "Rasik Ravindra (Director, NCAOR)",
+      "location": "Ny-Ålesund, Svalbard",
+      "significance": "Initial scientific feasibility, biological sampling, and atmospheric aerosol load measurements."
+    },
+    {
+      "expedition_number": 2,
+      "year": 2008,
+      "month": "July",
+      "location": "Ny-Ålesund, Svalbard",
+      "significance": "Formal inauguration of Himadri Station on 1 July 2008. Initiated long-term monitoring of Vestre Lovénbreen glacier."
+    },
+    {
+      "expedition_number": 8,
+      "year": 2014,
+      "month": "July",
+      "location": "Kongsfjorden Fjord, Svalbard",
+      "significance": "Successful deployment of IndARC, India's maiden multi-sensor subsurface moored observatory at 192 m water depth."
+    },
+    {
+      "expedition_number": 14,
+      "year": 2023,
+      "month": "December",
+      "location": "Ny-Ålesund, Svalbard",
+      "significance": "Flag-off of India's maiden Winter Arctic Scientific Expedition, stationing Indian scientists through polar night."
+    }
+  ],
+  "southern_ocean_expeditions": [
+    {
+      "expedition_number": 1,
+      "year": 2004,
+      "vessel": "ORV Sagar Kanya",
+      "significance": "Pilot multidisciplinary Southern Ocean voyage studying physical, chemical, and biological oceanography from 40°S to 60°S."
+    },
+    {
+      "expedition_number": 3,
+      "year": 2009,
+      "vessel": "ORV Sagar Kanya",
+      "significance": "Carbon sequestration, iron limitation, and coccolithophore dynamics in the Sub-Antarctic Front."
+    },
+    {
+      "expedition_number": 11,
+      "year": 2020,
+      "vessel": "MV Vasiliy Golovnin",
+      "significance": "High-resolution hydrography, air-sea CO2 flux, and microplastic quantification in the Southern Ocean."
+    }
+  ]
+}

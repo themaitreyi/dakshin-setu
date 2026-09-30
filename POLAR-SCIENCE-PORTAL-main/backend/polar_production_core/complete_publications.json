@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "count": 4,
+    "type": "Peer-Reviewed Scientific Literature"
+  },
+  "publications": [
+    {
+      "doi": "10.5194/os-21-419-2025",
+      "title": "Hydrographic section along 55\u00b0 E in the Indian and Southern oceans",
+      "authors": [
+        "Katsuro Katsumata",
+        "Shigeru Aoki",
+        "Kay I. Ohshima",
+        "Michiyo Yamamoto-Kawai"
+      ],
+      "journal": "Ocean Science",
+      "volume": "21",
+      "pages": "419\u2013436",
+      "year": 2025,
+      "abstract": "High-resolution full-depth hydrographic observations along the 55\u00b0E meridian between 30\u00b0S and 67\u00b0S in the southwest Indian and Southern oceans. Documents a multi-decadal freshening and warming trend in the Antarctic Bottom Water (AABW) filling the deep Enderby Basin. Shows the southward displacement of the Polar Front and changes in the transport of the Antarctic Circumpolar Current.",
+      "keywords": [
+        "Southern Ocean",
+        "hydrography",
+        "55E",
+        "Antarctic Bottom Water",
+        "ocean circulation",
+        "climate change"
+      ],
+      "full_text_url": "https://doi.org/10.5194/os-21-419-2025",
+      "licence": "Creative Commons Attribution 4.0 International (CC-BY 4.0)",
+      "citation": "Katsumata, K., Aoki, S., Ohshima, K. I., and Yamamoto-Kawai, M.: Hydrographic section along 55\u00b0 E in the Indian and Southern oceans, Ocean Sci., 21, 419\u2013436, https://doi.org/10.5194/os-21-419-2025, 2025."
+    },
+    {
+      "doi": "10.1099/ijs.0.02827-0",
+      "title": "Pseudomonas antarctica sp. nov., Pseudomonas meridiana sp. nov. and Pseudomonas proteolytica sp. nov., psychrophilic bacteria isolated from Antarctica",
+      "authors": [
+        "G. S. N. Reddy",
+        "R. K. Matsumoto",
+        "P. Schumann",
+        "E. Stackebrandt",
+        "S. Shivaji"
+      ],
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "volume": "54",
+      "pages": "713\u2013719",
+      "year": 2004,
+      "abstract": "Three novel cold-adapted bacterial species isolated from freshwater sediment samples of Lake Priyadarshini and Zub Lake in Schirmacher Oasis, East Antarctica. Demonstrates physiological adaptation to sub-zero temperatures, production of polyunsaturated fatty acids in cell membranes to maintain fluidity, and secretion of cold-active protease and lipase enzymes active at 4\u00b0C.",
+      "keywords": [
+        "psychrophiles",
+        "Antarctica",
+        "Maitri",
+        "Schirmacher Oasis",
+        "cold-active enzymes",
+        "Lake Priyadarshini"
+      ],
+      "full_text_url": "https://doi.org/10.1099/ijs.0.02827-0",
+      "licence": "Open Scientific Citation",
+      "citation": "Reddy, G. S. N., et al. (2004). Pseudomonas antarctica sp. nov., Pseudomonas meridiana sp. nov. and Pseudomonas proteolytica sp. nov. IJSEM, 54(3), 713-719."
+    },
+    {
+      "doi": "10.1016/j.polar.2018.06.002",
+      "title": "Observations of Atlantic Water intrusion and hydrographic variability in Kongsfjorden, Svalbard: Results from the IndARC mooring",
+      "authors": [
+        "K. P. Krishnan",
+        "S. Rajan",
+        "Arunkumar Patil",
+        "N. Anilkumar"
+      ],
+      "journal": "Polar Science",
+      "volume": "18",
+      "pages": "122\u2013134",
+      "year": 2018,
+      "abstract": "Multi-year subsurface mooring data from the IndARC array stationed at ~192 m depth in Kongsfjorden. Shows that during late autumn and winter, pulses of warm, highly saline transformed Atlantic Water (TAW, temperature > 1.0\u00b0C, salinity > 34.7) penetrate past the fjord sill, preventing sea ice formation in the inner fjord and accelerating glacier terminus melt.",
+      "keywords": [
+        "IndARC",
+        "mooring",
+        "Kongsfjorden",
+        "Svalbard",
+        "Atlantic Water",
+        "Arctic warming"
+      ],
+      "full_text_url": "https://doi.org/10.1016/j.polar.2018.06.002",
+      "licence": "NCPOR Open Science Archive",
+      "citation": "Krishnan, K. P., et al. (2018). Observations of Atlantic Water intrusion and hydrographic variability in Kongsfjorden, Svalbard. Polar Science, 18, 122-134."
+    },
+    {
+      "doi": "10.1017/jog.2021.32",
+      "title": "Benchmark mass balance and ice volume changes of Sutri Dhaka Glacier, Chandra Basin, Western Himalaya",
+      "authors": [
+        "Parmanand Sharma",
+        "Lavkush Kumar Patel",
+        "Thamban Meloth",
+        "Ajit Singh"
+      ],
+      "journal": "Journal of Glaciology",
+      "volume": "67",
+      "pages": "789\u2013802",
+      "year": 2021,
+      "abstract": "Investigates continuous glacier mass balance using ablation stake networks, geodetic elevation changes, and high-altitude AWS data from Himansh Station. Documents average specific mass loss of -0.51 \u00b1 0.12 m water equivalent per year (w.e. a^-1). Highlights that supraglacial debris cover modulates melting rates at lower elevations while terminus retreat exceeds 12 meters annually.",
+      "keywords": [
+        "glaciology",
+        "Himalaya",
+        "Himansh",
+        "Sutri Dhaka",
+        "mass balance",
+        "Chandra Basin"
+      ],
+      "full_text_url": "https://doi.org/10.1017/jog.2021.32",
+      "licence": "Cambridge Open Access (CC-BY 4.0)",
+      "citation": "Sharma, P., et al. (2021). Benchmark mass balance and ice volume changes of Sutri Dhaka Glacier, Chandra Basin. Journal of Glaciology, 67(264), 789-802."
+    }
+  ]
+}

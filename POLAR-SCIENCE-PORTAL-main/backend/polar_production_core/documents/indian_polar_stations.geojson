@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6333,
+          -70.75
+        ]
+      },
+      "properties": {
+        "name": "Dakshin Gangotri",
+        "region": "Antarctica",
+        "status": "Decommissioned / Historic Site"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7358,
+          -70.7661
+        ]
+      },
+      "properties": {
+        "name": "Maitri",
+        "region": "Antarctica",
+        "status": "Operational (Year-Round)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1872,
+          -69.4078
+        ]
+      },
+      "properties": {
+        "name": "Bharati",
+        "region": "Antarctica",
+        "status": "Operational (Year-Round)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9333,
+          78.9167
+        ]
+      },
+      "properties": {
+        "name": "Himadri",
+        "region": "Arctic",
+        "status": "Operational (Year-Round)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6167,
+          32.4
+        ]
+      },
+      "properties": {
+        "name": "Himansh",
+        "region": "Himalaya",
+        "status": "Operational (High Altitude)"
+      }
+    }
+  ]
+}

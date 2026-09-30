@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "arctic-sea-ice.jpg": {
+      "original": "media/arctic-sea-ice.jpg",
+      "thumbnail": "media/thumbnails/thumb_arctic-sea-ice.jpg",
+      "mobile": "media/arctic-sea-ice.jpg"
+    },
+    "arctic-sea-ice.mp4": {
+      "original": "media/arctic-sea-ice.mp4",
+      "poster": "media/arctic-sea-ice.jpg",
+      "preview": "media/arctic-sea-ice.mp4"
+    }
+  }
+}

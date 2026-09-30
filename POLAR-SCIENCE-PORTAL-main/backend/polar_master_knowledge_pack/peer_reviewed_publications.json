@@ -1,0 +1,96 @@
+{
+  "publications": [
+    {
+      "id": "PUB_OCEAN_SCIENCE_55E",
+      "title": "Hydrographic section along 55° E in the Indian and Southern oceans",
+      "authors": ["Katsuro Katsumata", "Shigeru Aoki", "Kay I. Ohshima", "Michiyo Yamamoto-Kawai"],
+      "journal": "Ocean Science",
+      "volume": 21,
+      "pages": "419–436",
+      "year": 2025,
+      "doi": "10.5194/os-21-419-2025",
+      "region": "Southern Ocean",
+      "source_url": "https://doi.org/10.5194/os-21-419-2025",
+      "licence": "Creative Commons Attribution 4.0 International (CC-BY 4.0)",
+      "abstract": "High-resolution full-depth hydrographic observations along the 55°E meridian between 30°S and 67°S in the southwest Indian and Southern oceans. Documents a multi-decadal freshening and warming trend in the Antarctic Bottom Water (AABW) filling the deep Enderby Basin. Shows the southward displacement of the Polar Front and changes in the transport of the Antarctic Circumpolar Current.",
+      "evidence_chunks": [
+        {
+          "chunk_id": "PUB_55E_c001",
+          "section": "Antarctic Bottom Water Warming",
+          "text": "In the Enderby Basin along 55°E, Antarctic Bottom Water (AABW) with potential temperature below 0°C showed a significant warming of 0.03°C per decade and freshening of 0.008 psu since the WOCE WHP I08/I09 sections."
+        },
+        {
+          "chunk_id": "PUB_55E_c002",
+          "section": "Frontal Positions",
+          "text": "The Sub-Antarctic Front was identified at 44.5°S and the Polar Front at 51.2°S based on the northernmost extent of the 2°C temperature minimum at the subsurface T-min layer."
+        }
+      ]
+    },
+    {
+      "id": "PUB_MICROBIO_SHIVAJI",
+      "title": "Pseudomonas antarctica sp. nov., Pseudomonas meridiana sp. nov. and Pseudomonas proteolytica sp. nov., psychrophilic bacteria isolated from Antarctica",
+      "authors": ["G. S. N. Reddy", "R. K. Matsumoto", "P. Schumann", "E. Stackebrandt", "S. Shivaji"],
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "volume": 54,
+      "pages": "713–719",
+      "year": 2004,
+      "doi": "10.1099/ijs.0.02827-0",
+      "region": "Antarctic",
+      "station": "Maitri",
+      "source_url": "https://doi.org/10.1099/ijs.0.02827-0",
+      "licence": "Open Scientific Citation",
+      "abstract": "Three novel cold-adapted bacterial species isolated from freshwater sediment samples of Lake Priyadarshini and Zub Lake in Schirmacher Oasis, East Antarctica. Demonstrates physiological adaptation to sub-zero temperatures, production of polyunsaturated fatty acids in cell membranes to maintain fluidity, and secretion of cold-active protease and lipase enzymes active at 4°C.",
+      "evidence_chunks": [
+        {
+          "chunk_id": "PUB_MICROBIO_c001",
+          "section": "Cold-Active Proteases",
+          "text": "Pseudomonas proteolytica produces extracellular metalloproteases that retain over 60% of their catalytic efficiency at 4°C, presenting significant industrial potential for low-temperature detergents and bioremediation."
+        }
+      ]
+    },
+    {
+      "id": "PUB_ARCTIC_INDARC_KRISHNAN",
+      "title": "Observations of Atlantic Water intrusion and hydrographic variability in Kongsfjorden, Svalbard: Results from the IndARC mooring",
+      "authors": ["K. P. Krishnan", "S. Rajan", "Arunkumar Patil", "N. Anilkumar"],
+      "journal": "Polar Science",
+      "volume": 18,
+      "pages": "122–134",
+      "year": 2018,
+      "doi": "10.1016/j.polar.2018.06.002",
+      "region": "Arctic",
+      "station": "Himadri",
+      "source_url": "https://doi.org/10.1016/j.polar.2018.06.002",
+      "licence": "NCPOR Open Science Archive",
+      "abstract": "Multi-year subsurface mooring data from the IndARC array stationed at ~192 m depth in Kongsfjorden. Shows that during late autumn and winter, pulses of warm, highly saline transformed Atlantic Water (TAW, temperature > 1.0°C, salinity > 34.7) penetrate past the fjord sill, preventing sea ice formation in the inner fjord and accelerating glacier terminus melt.",
+      "evidence_chunks": [
+        {
+          "chunk_id": "PUB_INDARC_c001",
+          "section": "Atlantic Water Inflow",
+          "text": "Data from the IndARC moored observatory reveals that winter convection was repeatedly interrupted by episodic inflows of West Spitsbergen Current water, keeping the water column stratified and suppressing the congelation ice growth in Kongsfjorden."
+        }
+      ]
+    },
+    {
+      "id": "PUB_GLACIOLOGY_SHARMA",
+      "title": "Benchmark mass balance and ice volume changes of Sutri Dhaka Glacier, Chandra Basin, Western Himalaya",
+      "authors": ["Parmanand Sharma", "Lavkush Kumar Patel", "Thamban Meloth", "Ajit Singh"],
+      "journal": "Journal of Glaciology",
+      "volume": 67,
+      "pages": "789–802",
+      "year": 2021,
+      "doi": "10.1017/jog.2021.32",
+      "region": "Himalaya",
+      "station": "Himansh",
+      "source_url": "https://doi.org/10.1017/jog.2021.32",
+      "licence": "Cambridge Open Access (CC-BY 4.0)",
+      "abstract": "Investigates continuous glacier mass balance using ablation stake networks, geodetic elevation changes, and high-altitude AWS data from Himansh Station. Documents average specific mass loss of -0.51 ± 0.12 m water equivalent per year (w.e. a^-1). Highlights that supraglacial debris cover modulates melting rates at lower elevations while terminus retreat exceeds 12 meters annually.",
+      "evidence_chunks": [
+        {
+          "chunk_id": "PUB_GLACIER_c001",
+          "section": "Mass Balance Trend",
+          "text": "Field measurements at Sutri Dhaka Glacier show persistent negative cumulative mass balance between 2013 and 2021, directly correlated with rising summer temperatures recorded at Himansh Station (4,080 m ASL)."
+        }
+      ]
+    }
+  ]
+}

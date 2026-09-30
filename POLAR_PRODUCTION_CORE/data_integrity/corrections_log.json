@@ -1,0 +1,20 @@
+{
+  "corrections": [
+    {
+      "date": "2026-09-29",
+      "field": "Bharati elevation",
+      "old_value": "30m",
+      "new_value": "35m",
+      "reason": "Survey contour verification",
+      "reviewer": "Curator Lead"
+    },
+    {
+      "date": "2026-09-29",
+      "field": "IndARC depth",
+      "old_value": "190m",
+      "new_value": "192m",
+      "reason": "Acoustic release logbook check",
+      "reviewer": "Data Steward"
+    }
+  ]
+}

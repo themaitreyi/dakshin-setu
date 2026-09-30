@@ -1,0 +1,132 @@
+{
+  "checksums": [
+    {
+      "filename": "arctic-sea-ice.jpg",
+      "folder": "media",
+      "sha256": "b582ce683f6187632065845a29b97243bd2f1dd21c54b09e7b8fd6762efd5a22",
+      "size_bytes": 232866,
+      "mime_type": "image/jpeg",
+      "verified_at": "2026-09-29T19:34:20.931549+00:00"
+    },
+    {
+      "filename": "arctic-sea-ice.mp4",
+      "folder": "media",
+      "sha256": "8531d1475b0c1baa4c41048b52e2f5701da8fcd76ddbeaee42b5f779fb2e343d",
+      "size_bytes": 14181197,
+      "mime_type": "video/mp4",
+      "verified_at": "2026-09-29T19:34:20.945658+00:00"
+    },
+    {
+      "filename": "paper-preview.png",
+      "folder": "media",
+      "sha256": "b4ca140f7d78bb6bdedfdcac5433f6ec343aaeb9e5d5742f9706b9c3f8e51162",
+      "size_bytes": 202006,
+      "mime_type": "image/png",
+      "verified_at": "2026-09-29T19:34:20.946667+00:00"
+    },
+    {
+      "filename": "penguin-beach.jpg",
+      "folder": "media",
+      "sha256": "8687f93b30cdf5b6aec79e27af2bf2d375a84d38e734584f3432ab4fdf55be64",
+      "size_bytes": 240999,
+      "mime_type": "image/jpeg",
+      "verified_at": "2026-09-29T19:34:20.946667+00:00"
+    },
+    {
+      "filename": "arctic-report.pdf",
+      "folder": "documents",
+      "sha256": "6d514c9fad4cfa17cebc8cd97e9b95906a408f6f68d2baceec9b25417b5823fc",
+      "size_bytes": 4211879,
+      "mime_type": "application/pdf",
+      "verified_at": "2026-09-29T19:34:20.951560+00:00"
+    },
+    {
+      "filename": "indarc_kongsfjorden_ctd_sample.csv",
+      "folder": "documents",
+      "sha256": "7d15453b2485e39145cc738c6ab86c7868a46a3a19a9f32bb96dae8ae34abb66",
+      "size_bytes": 268,
+      "mime_type": "text/csv",
+      "verified_at": "2026-09-29T19:34:20.952560+00:00"
+    },
+    {
+      "filename": "indian_polar_stations.geojson",
+      "folder": "documents",
+      "sha256": "b4510abb987ec9c52bcdb231ddcaa9271f1ff1cd2f9d7775eaf6c6efdd964abd",
+      "size_bytes": 1631,
+      "mime_type": "application/json",
+      "verified_at": "2026-09-29T19:34:20.952560+00:00"
+    },
+    {
+      "filename": "isea-44-report.pdf",
+      "folder": "documents",
+      "sha256": "441f2faa1348b928086b9cbfc93c8ced6effc36a94d79179e7bfe59a4142924e",
+      "size_bytes": 48528,
+      "mime_type": "application/pdf",
+      "verified_at": "2026-09-29T19:34:20.952560+00:00"
+    },
+    {
+      "filename": "maitri_aws_surface_2023_sample.csv",
+      "folder": "documents",
+      "sha256": "0f95f25c9cc1f6bd852a3adf6ca4abef971fbcdebabda0718aed82aa8f8ca312",
+      "size_bytes": 399,
+      "mime_type": "text/csv",
+      "verified_at": "2026-09-29T19:34:20.952560+00:00"
+    },
+    {
+      "filename": "os-21-419-2025.pdf",
+      "folder": "documents",
+      "sha256": "dc3a110c1e08ba3a5eb7178af45f7aca9ca3a9921c603a8ebdf8054a2afa607f",
+      "size_bytes": 13771935,
+      "mime_type": "application/pdf",
+      "verified_at": "2026-09-29T19:34:20.967293+00:00"
+    },
+    {
+      "filename": "maitri-station.jpg",
+      "folder": "media",
+      "sha256": "b266d425cb6e827c23a64a75dfaf485aa40da4ac0a518531e69e62976d81190b",
+      "size_bytes": 1033661,
+      "mime_type": "image/jpeg",
+      "verified_at": "2026-09-30T00:00:00+05:30"
+    },
+    {
+      "filename": "dakshin-gangotri-station.jpg",
+      "folder": "media",
+      "sha256": "5ee1ee7f727804d68d5f4512ab5925220cfd74de49de609ca786f0c1f76d32bb",
+      "size_bytes": 108236,
+      "mime_type": "image/jpeg",
+      "verified_at": "2026-09-30T00:00:00+05:30"
+    },
+    {
+      "filename": "himadri-inauguration.jpg",
+      "folder": "media",
+      "sha256": "53b2d040a5a5d6f3fb87145be9deb1c6535a3e091ff6e4b164c7469c1e2efaa3",
+      "size_bytes": 299106,
+      "mime_type": "image/jpeg",
+      "verified_at": "2026-09-30T00:00:00+05:30"
+    },
+    {
+      "filename": "bharati-larsemann-context.jpg",
+      "folder": "media",
+      "sha256": "1f023782df7c622994c508f266bad45e293f12124985e9fde64e8df345b582d2",
+      "size_bytes": 787459,
+      "mime_type": "image/jpeg",
+      "verified_at": "2026-09-30T11:00:00+05:30"
+    },
+    {
+      "filename": "himansh-chandra-context.jpg",
+      "folder": "media",
+      "sha256": "f08b38a8da011c04181194fce11dc9aa7c9ecbb2640e1b9aab6b27ca66f74f82",
+      "size_bytes": 488836,
+      "mime_type": "image/jpeg",
+      "verified_at": "2026-09-30T11:00:00+05:30"
+    },
+    {
+      "filename": "indarc-kongsfjorden-context.jpg",
+      "folder": "media",
+      "sha256": "b24f1cbe9e02eaaad996161f8e8dc479cecc01efe750973959274106cddfab6c",
+      "size_bytes": 342116,
+      "mime_type": "image/jpeg",
+      "verified_at": "2026-09-30T11:00:00+05:30"
+    }
+  ]
+}

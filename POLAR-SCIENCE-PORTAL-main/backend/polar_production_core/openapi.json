@@ -1,0 +1,35 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Dakshinsetu Polar Knowledge API",
+    "version": "2.4.0",
+    "description": "Production REST API for polar knowledge, datasets, and outreach"
+  },
+  "paths": {
+    "/api/v1/resources": {
+      "get": {
+        "summary": "List resources with faceted filtering"
+      }
+    },
+    "/api/v1/resources/{id}": {
+      "get": {
+        "summary": "Get resource detail and chunk citations"
+      }
+    },
+    "/api/v1/search": {
+      "post": {
+        "summary": "Hybrid semantic + keyword search"
+      }
+    },
+    "/api/v1/ask": {
+      "post": {
+        "summary": "Evidence-grounded RAG query answering"
+      }
+    },
+    "/api/v1/generate": {
+      "post": {
+        "summary": "Outreach draft content generation"
+      }
+    }
+  }
+}

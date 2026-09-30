@@ -1,0 +1,21 @@
+{
+  "mandatory_fields": [
+    "title",
+    "resource_type",
+    "region",
+    "source_owner",
+    "source_url",
+    "licence"
+  ],
+  "max_description_length": 15000,
+  "supported_media_formats": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".webp",
+    ".mp4",
+    ".pdf",
+    ".csv",
+    ".nc"
+  ]
+}

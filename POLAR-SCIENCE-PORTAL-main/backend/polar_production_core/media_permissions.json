@@ -1,0 +1,95 @@
+{
+  "policy": "Dakshinsetu Media Reuse and Rights Registry",
+  "verified_permissions": [
+    {
+      "filename": "arctic-sea-ice.jpg",
+      "rights_holder": "National Aeronautics and Space Administration (NASA)",
+      "license_type": "Public Domain",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+    },
+    {
+      "filename": "arctic-sea-ice.mp4",
+      "rights_holder": "NASA GSFC Scientific Visualization Studio",
+      "license_type": "Public Domain",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://svs.gsfc.nasa.gov/help/"
+    },
+    {
+      "filename": "penguin-beach.jpg",
+      "rights_holder": "NASA / Maria-Jose Vinas",
+      "license_type": "Public Domain / Educational Media Reuse",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": false,
+      "attribution_required": true,
+      "license_terms_url": "https://www.nasa.gov/multimedia/guidelines/index.html"
+    },
+    {
+      "filename": "paper-preview.png",
+      "rights_holder": "Copernicus Publications / Authors",
+      "license_type": "CC-BY-4.0",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "filename": "maitri-station.jpg",
+      "rights_holder": "Prakash Khatarkar",
+      "license_type": "CC-BY-SA-4.0",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "filename": "dakshin-gangotri-station.jpg",
+      "rights_holder": "Pavan Nair",
+      "license_type": "CC-BY-SA-4.0",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "filename": "himadri-inauguration.jpg",
+      "rights_holder": "Ministry of Science & Technology, Government of India",
+      "license_type": "GODL-India",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://data.gov.in/government-open-data-license-india"
+    },
+    {
+      "filename": "bharati-larsemann-context.jpg",
+      "rights_holder": "Tsy1980",
+      "license_type": "CC-BY-4.0",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "filename": "himansh-chandra-context.jpg",
+      "rights_holder": "ADARSHluck",
+      "license_type": "CC-BY-SA-4.0",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "filename": "indarc-kongsfjorden-context.jpg",
+      "rights_holder": "Bjoertvedt",
+      "license_type": "CC-BY-SA-3.0",
+      "redistribution_permitted": true,
+      "commercial_use_permitted": true,
+      "attribution_required": true,
+      "license_terms_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ]
+}

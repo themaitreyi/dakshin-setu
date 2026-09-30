@@ -1,0 +1,5 @@
+{
+  "grounded_qa": "Use the provided evidence to answer the question, citing chunk IDs [like this].",
+  "student_explainer": "Explain this polar research finding for middle-school students using simple language and analogies.",
+  "press_release": "Write a professional press release draft with headline, date, and key scientific findings."
+}

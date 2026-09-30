@@ -1,0 +1,8 @@
+{
+  "provenance_rules": {
+    "title_provenance": "Must match exact published document title or official government notification.",
+    "coordinate_provenance": "Must derive from SCAR Composite Gazetteer of Antarctica or Norwegian Polar Institute Place Names Database.",
+    "measurement_provenance": "Must trace back to calibrated sensor raw datalogger or published scientific paper.",
+    "licensing_provenance": "Must contain verifiable link to published copyright / Creative Commons attribution."
+  }
+}

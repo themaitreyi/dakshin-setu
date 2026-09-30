@@ -1,0 +1,500 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+.weather-sculpture {
+  background: linear-gradient(115deg, #173c72, #2658c9 65%, #337edc);
+  box-shadow:
+    0 9px 0 #153a79,
+    0 24px 42px -16px #1e4b8a66,
+    inset 0 1px 0 #ffffff50;
+}
+.polar-stat {
+  box-shadow:
+    0 5px 0 #d7e7f7,
+    0 12px 24px -16px #163c7260;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s;
+}
+.polar-stat:hover {
+  transform: translateY(-5px) rotateX(3deg);
+  box-shadow:
+    0 8px 0 #c5def4,
+    0 20px 28px -15px #163c7260;
+}
+.polar-menu-button {
+  background: transparent;
+  color: #334155;
+  border: none;
+  box-shadow: none;
+  margin: 0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
+}
+.polar-menu-button:hover,
+.polar-menu-button:focus-visible {
+  background-color: #0f2b5c;
+  color: #ffffff;
+  box-shadow: none;
+  transform: none;
+}
+.polar-menu-button[aria-current="page"] {
+  background-color: #0f2b5c;
+  color: #ffffff;
+  box-shadow: none;
+  border: none;
+}
+.polar-menu-button:active {
+  background-color: #0b1f42;
+  transform: none;
+  box-shadow: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .polar-stat,
+  .polar-menu-button {
+    transition: none;
+  }
+  .polar-stat:hover {
+    transform: none;
+  }
+}
+
+@media print {
+  header,
+  footer,
+  nav,
+  button,
+  .record-downloads,
+  iframe,
+  video {
+    display: none !important;
+  }
+  body,
+  main,
+  section,
+  article,
+  aside {
+    background: white !important;
+    color: black !important;
+    box-shadow: none !important;
+  }
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+  h1,
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+  a {
+    overflow-wrap: anywhere;
+  }
+}
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Dakshinsetu — India-led polar knowledge design system.
+ *
+ * Palette intent:
+ *  - background: glacier white / ice fog
+ *  - primary: deep polar night navy (Government of India institutional tone)
+ *  - secondary: glacier blue
+ *  - accent: aurora teal (used sparingly for emphasis + focus rings)
+ *  - chart ramp: ice -> aurora -> crevasse
+ * All colours are oklch and reachable through semantic Tailwind utilities only.
+ */
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-ice: var(--ice);
+  --color-ice-foreground: var(--ice-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ring-offset-background: var(--background);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --font-display: "Sora", "Segoe UI", system-ui, sans-serif;
+  --font-sans: "Inter", "Segoe UI", system-ui, sans-serif;
+}
+
+:root {
+  --radius: 0.5rem;
+  --background: oklch(0.985 0.006 240);
+  --foreground: oklch(0.21 0.038 255);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.21 0.038 255);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.21 0.038 255);
+  --primary: oklch(0.32 0.075 254);
+  --primary-foreground: oklch(0.985 0.006 240);
+  --secondary: oklch(0.93 0.028 235);
+  --secondary-foreground: oklch(0.3 0.062 254);
+  --muted: oklch(0.955 0.012 240);
+  --muted-foreground: oklch(0.48 0.032 253);
+  --accent: oklch(0.62 0.108 205);
+  --accent-foreground: oklch(0.99 0.005 220);
+  --destructive: oklch(0.55 0.192 25);
+  --destructive-foreground: oklch(0.985 0.006 240);
+  --success: oklch(0.52 0.104 165);
+  --success-foreground: oklch(0.99 0.005 220);
+  --warning: oklch(0.68 0.135 72);
+  --warning-foreground: oklch(0.22 0.04 60);
+  --ice: oklch(0.9 0.036 220);
+  --ice-foreground: oklch(0.28 0.058 254);
+  --border: oklch(0.9 0.017 240);
+  --input: oklch(0.89 0.02 240);
+  --ring: oklch(0.55 0.106 205);
+  --chart-1: oklch(0.32 0.075 254);
+  --chart-2: oklch(0.55 0.106 205);
+  --chart-3: oklch(0.68 0.09 195);
+  --chart-4: oklch(0.68 0.135 72);
+  --chart-5: oklch(0.52 0.104 165);
+  --sidebar: oklch(0.27 0.06 254);
+  --sidebar-foreground: oklch(0.94 0.014 230);
+  --sidebar-primary: oklch(0.62 0.108 205);
+  --sidebar-primary-foreground: oklch(0.99 0.005 220);
+  --sidebar-accent: oklch(0.34 0.062 254);
+  --sidebar-accent-foreground: oklch(0.97 0.008 230);
+  --sidebar-border: oklch(0.38 0.058 254);
+  --sidebar-ring: oklch(0.62 0.108 205);
+}
+
+.dark {
+  --background: oklch(0.17 0.036 256);
+  --foreground: oklch(0.95 0.012 230);
+  --card: oklch(0.22 0.042 256);
+  --card-foreground: oklch(0.95 0.012 230);
+  --popover: oklch(0.22 0.042 256);
+  --popover-foreground: oklch(0.95 0.012 230);
+  --primary: oklch(0.78 0.076 210);
+  --primary-foreground: oklch(0.18 0.04 256);
+  --secondary: oklch(0.29 0.046 256);
+  --secondary-foreground: oklch(0.95 0.012 230);
+  --muted: oklch(0.27 0.04 256);
+  --muted-foreground: oklch(0.74 0.028 235);
+  --accent: oklch(0.7 0.11 200);
+  --accent-foreground: oklch(0.17 0.036 256);
+  --destructive: oklch(0.68 0.17 25);
+  --destructive-foreground: oklch(0.16 0.03 30);
+  --success: oklch(0.7 0.11 165);
+  --success-foreground: oklch(0.16 0.03 165);
+  --warning: oklch(0.78 0.13 75);
+  --warning-foreground: oklch(0.19 0.04 60);
+  --ice: oklch(0.34 0.05 220);
+  --ice-foreground: oklch(0.93 0.02 220);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 16%);
+  --ring: oklch(0.7 0.11 200);
+  --chart-1: oklch(0.78 0.076 210);
+  --chart-2: oklch(0.7 0.11 200);
+  --chart-3: oklch(0.82 0.09 190);
+  --chart-4: oklch(0.78 0.13 75);
+  --chart-5: oklch(0.7 0.11 165);
+  --sidebar: oklch(0.2 0.04 256);
+  --sidebar-foreground: oklch(0.94 0.014 230);
+  --sidebar-primary: oklch(0.7 0.11 200);
+  --sidebar-primary-foreground: oklch(0.17 0.036 256);
+  --sidebar-accent: oklch(0.27 0.044 256);
+  --sidebar-accent-foreground: oklch(0.96 0.01 230);
+  --sidebar-border: oklch(1 0 0 / 12%);
+  --sidebar-ring: oklch(0.7 0.11 200);
+}
+
+@layer base {
+  #lovable-badge {
+    display: none !important;
+  }
+
+  * {
+    border-color: var(--color-border);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.015em;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-ring);
+    outline-offset: 2px;
+  }
+}
+
+@utility polar-gradient {
+  background-image:
+    radial-gradient(
+      120% 90% at 12% 8%,
+      color-mix(in oklab, var(--color-accent) 34%, transparent) 0%,
+      transparent 55%
+    ),
+    linear-gradient(
+      160deg,
+      color-mix(in oklab, var(--color-primary) 68%, transparent) 0%,
+      color-mix(in oklab, oklch(0.2 0.05 258) 70%, transparent) 100%
+    ),
+    url("../ref_pics/BackG.jpeg");
+  background-position: center;
+  background-size: cover;
+}
+
+@utility text-balance-tight {
+  text-wrap: balance;
+}
+
+@layer components {
+  .dakshin-hero-image {
+    background-image: url("../ref_pics/BackG.jpeg");
+    background-position: center;
+    background-size: cover;
+    will-change: transform;
+  }
+
+  .aurora-orb {
+    animation: aurora-drift 9s ease-in-out infinite alternate;
+  }
+
+  .perspective-stage {
+    min-width: 0;
+    transform-style: preserve-3d;
+  }
+
+  .depth-card {
+    transform: perspective(900px) translateZ(0);
+    transition:
+      transform 300ms ease,
+      border-color 300ms ease,
+      background-color 300ms ease;
+  }
+
+  .depth-card:hover {
+    transform: perspective(900px) translateY(-8px) rotateX(2deg) translateZ(18px);
+    border-color: color-mix(in oklab, var(--color-accent) 55%, transparent);
+    background-color: rgb(255 255 255 / 1);
+  }
+}
+
+@keyframes aurora-drift {
+  from {
+    transform: translate3d(-4%, -4%, 0) scale(0.92);
+    opacity: 0.55;
+  }
+  to {
+    transform: translate3d(4%, 5%, 0) scale(1.1);
+    opacity: 0.9;
+  }
+}
+
+.polar-snow i {
+  position: absolute;
+  top: -12px;
+  border-radius: 50%;
+  background: white;
+  box-shadow: 0 0 4px #a2c9e8;
+  animation: snowfall 10s linear infinite;
+}
+@keyframes snowfall {
+  from {
+    transform: translate3d(0, -20px, 0);
+    opacity: 0;
+  }
+  12% {
+    opacity: 0.85;
+  }
+  to {
+    transform: translate3d(45px, 680px, 0);
+    opacity: 0;
+  }
+}
+.scroll-reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition:
+    opacity 0.65s ease,
+    transform 0.65s ease;
+}
+.scroll-reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+.depth-card:hover {
+  transform: perspective(1000px) translateY(-5px) rotateX(var(--tilt-x, 0deg))
+    rotateY(var(--tilt-y, 0deg));
+  box-shadow: 0 20px 50px -25px #47859b66;
+}
+.dakshin-hero {
+  color: #153a50 !important;
+}
+.dakshin-hero > div:nth-child(2) {
+  background:
+    linear-gradient(
+      90deg,
+      rgba(245, 251, 255, 0.96),
+      rgba(240, 249, 255, 0.8) 45%,
+      rgba(238, 249, 255, 0.15)
+    ),
+    linear-gradient(0deg, #f5faff, transparent 45%) !important;
+}
+.dakshin-hero .text-white\/70,
+.dakshin-hero .text-white\/60,
+.dakshin-hero .text-white\/80 {
+  color: #436173;
+}
+.dakshin-hero .text-cyan-100,
+.dakshin-hero .text-cyan-200 {
+  color: #126f87;
+}
+.dakshin-hero .bg-white\/10,
+.dakshin-hero .bg-white\/5 {
+  background: #ffffffba;
+  border-color: #d4e8f0;
+}
+.dakshin-hero .text-white {
+  color: #153a50;
+}
+.dakshin-hero .text-white\/65 {
+  color: #436173;
+}
+.dakshin-hero .bg-slate-950\/25 {
+  background: #ffffffa8;
+  border-color: #d4e8f0;
+  box-shadow: 0 12px 35px -20px #49859780;
+}
+.dakshin-hero .text-cyan-100\/80 {
+  color: #126f87;
+}
+@media (prefers-reduced-motion: reduce) {
+  .scroll-reveal {
+    opacity: 1;
+    transform: none;
+  }
+  .depth-card:hover {
+    transform: none;
+  }
+  .polar-snow {
+    display: none;
+  }
+}
+
+@utility animate-spin-slow {
+  animation: spin 12s linear infinite;
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+@keyframes ice-float {
+  0%,
+  100% {
+    transform: perspective(600px) rotateY(-10deg) rotateX(5deg) translateY(0);
+  }
+  50% {
+    transform: perspective(600px) rotateY(10deg) rotateX(-5deg) translateY(-8px);
+  }
+}
+.ice-emblem {
+  animation: ice-float 8s ease-in-out infinite;
+}
+.login-scene {
+  background: radial-gradient(ellipse at 20% 40%, #e0f2fe 0, transparent 65%);
+}
+@media (prefers-reduced-motion: reduce) {
+  .ice-emblem {
+    animation: none;
+  }
+}
+@media (pointer: fine) {
+  body,
+  a,
+  button,
+  [role="button"],
+  select {
+    cursor:
+      url("/polar-cursor.svg") 20 20,
+      auto;
+  }
+  input,
+  textarea,
+  [contenteditable="true"] {
+    cursor: text;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+}

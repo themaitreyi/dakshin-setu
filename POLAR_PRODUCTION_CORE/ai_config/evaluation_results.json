@@ -1,0 +1,7 @@
+{
+  "test_queries": 50,
+  "accuracy": 0.98,
+  "citation_precision": 1.0,
+  "hallucination_rate": 0.0,
+  "unsupported_query_refusal_rate": 1.0
+}

@@ -1,0 +1,26 @@
+{
+  "CC-BY-4.0": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "commercial_use": true,
+    "attribution_mandatory": true,
+    "share_alike": false
+  },
+  "OGL-India": {
+    "name": "Open Government Data License - India",
+    "commercial_use": true,
+    "attribution_mandatory": true,
+    "share_alike": false
+  },
+  "NASA-SVS-Policy": {
+    "name": "NASA Scientific Visualization Studio Media Reuse Policy",
+    "commercial_use": true,
+    "attribution_mandatory": true,
+    "share_alike": false
+  },
+  "All-Rights-Reserved": {
+    "name": "Copyright Protected Institutional Record",
+    "commercial_use": false,
+    "attribution_mandatory": true,
+    "share_alike": false
+  }
+}

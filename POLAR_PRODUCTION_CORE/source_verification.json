@@ -1,0 +1,32 @@
+{
+  "verification_audit": [
+    {
+      "record_id": "STN_MAITRI",
+      "status": "curator-reviewed",
+      "authoritative_source": "MoES / NPDC Gazette",
+      "auditor": "Curator Lead",
+      "audit_date": "2026-09-29"
+    },
+    {
+      "record_id": "STN_BHARATI",
+      "status": "curator-reviewed",
+      "authoritative_source": "NCPOR Station Engineering Directory",
+      "auditor": "Curator Lead",
+      "audit_date": "2026-09-29"
+    },
+    {
+      "record_id": "PUB_OCEAN_SCIENCE_55E",
+      "status": "doi-crossref-verified",
+      "authoritative_source": "Crossref DOI 10.5194/os-21-419-2025",
+      "auditor": "Automated Crossref Bot",
+      "audit_date": "2026-09-29"
+    },
+    {
+      "record_id": "DATA_MAITRI_AWS",
+      "status": "curator-reviewed",
+      "authoritative_source": "NPDC Data Registry",
+      "auditor": "Data Steward",
+      "audit_date": "2026-09-29"
+    }
+  ]
+}

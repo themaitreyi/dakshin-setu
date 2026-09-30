@@ -1,0 +1,6 @@
+{
+  "target_chunk_size": 1100,
+  "chunk_overlap": 150,
+  "preserve_pages": true,
+  "min_chunk_length": 30
+}

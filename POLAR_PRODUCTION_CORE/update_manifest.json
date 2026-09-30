@@ -1,0 +1,12 @@
+{
+  "portal_version": "2.4.0-production",
+  "data_steward": "National Centre for Polar and Ocean Research",
+  "last_manifest_audit": "2026-09-29T19:34:20.997287+00:00",
+  "refresh_intervals": {
+    "aws_meteorology": "Hourly sync via satellite link",
+    "publications": "Monthly Crossref DOI crawler",
+    "expeditions": "Annual seasonal post-cruise compilation",
+    "media": "Quarterly public outreach review"
+  },
+  "deprecation_schedule": "No active deprecations scheduled."
+}

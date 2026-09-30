@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "count": 6,
+    "authority": "NPDC / NCPOR / NSIDC"
+  },
+  "datasets": [
+    {
+      "dataset_id": "NPDC-MET-MAITRI-2023",
+      "title": "Continuous Surface Meteorological Observations at Maitri Station",
+      "region": "Antarctic",
+      "station": "Maitri",
+      "variables": [
+        {
+          "name": "air_temperature",
+          "unit": "Celsius",
+          "standard_name": "air_temperature"
+        },
+        {
+          "name": "wind_speed",
+          "unit": "m/s",
+          "standard_name": "wind_speed"
+        },
+        {
+          "name": "wind_direction",
+          "unit": "degrees",
+          "standard_name": "wind_from_direction"
+        },
+        {
+          "name": "barometric_pressure",
+          "unit": "hPa",
+          "standard_name": "air_pressure"
+        },
+        {
+          "name": "relative_humidity",
+          "unit": "percent",
+          "standard_name": "relative_humidity"
+        },
+        {
+          "name": "solar_radiation",
+          "unit": "W/m^2",
+          "standard_name": "downwelling_shortwave_flux"
+        }
+      ],
+      "temporal_range": {
+        "start": "1990-01-01",
+        "end": "2024-12-31"
+      },
+      "geographic_bbox": {
+        "west": 11.7,
+        "east": 11.8,
+        "south": -70.8,
+        "north": -70.7
+      },
+      "doi": "10.5065/D6NPDC-MAITRI",
+      "direct_api_url": "https://npdc.ncpor.res.in/api/v1/met/maitri",
+      "formats": [
+        "CSV",
+        "NetCDF-4"
+      ],
+      "licence": "OGL-India",
+      "update_frequency": "Hourly / Daily synoptic sync"
+    },
+    {
+      "dataset_id": "NPDC-AWS-BHARATI-2023",
+      "title": "Coastal Weather Station Time Series at Bharati Station",
+      "region": "Antarctic",
+      "station": "Bharati",
+      "variables": [
+        {
+          "name": "air_temperature",
+          "unit": "Celsius"
+        },
+        {
+          "name": "wind_gust",
+          "unit": "m/s"
+        },
+        {
+          "name": "atmospheric_pressure",
+          "unit": "hPa"
+        },
+        {
+          "name": "uv_radiation",
+          "unit": "W/m^2"
+        }
+      ],
+      "temporal_range": {
+        "start": "2012-03-18",
+        "end": "2024-12-31"
+      },
+      "geographic_bbox": {
+        "west": 76.1,
+        "east": 76.2,
+        "south": -69.5,
+        "north": -69.4
+      },
+      "doi": "10.5065/D6NPDC-BHARATI",
+      "direct_api_url": "https://npdc.ncpor.res.in/api/v1/met/bharati",
+      "formats": [
+        "CSV",
+        "NetCDF-4"
+      ],
+      "licence": "OGL-India",
+      "update_frequency": "10-minute automated transmission"
+    },
+    {
+      "dataset_id": "NCPOR-INDARC-CTD-2022",
+      "title": "IndARC Moored Underwater Observatory Hydrographic Time Series",
+      "region": "Arctic",
+      "station": "Himadri",
+      "variables": [
+        {
+          "name": "water_temperature",
+          "unit": "Celsius"
+        },
+        {
+          "name": "salinity",
+          "unit": "psu"
+        },
+        {
+          "name": "current_velocity",
+          "unit": "cm/s"
+        },
+        {
+          "name": "chlorophyll_a",
+          "unit": "ug/L"
+        },
+        {
+          "name": "turbidity",
+          "unit": "NTU"
+        }
+      ],
+      "temporal_range": {
+        "start": "2014-07-23",
+        "end": "2023-08-15"
+      },
+      "geographic_bbox": {
+        "west": 11.8,
+        "east": 11.9,
+        "south": 78.9,
+        "north": 79.0
+      },
+      "doi": "10.21203/rs.3.indarc-kongsfjorden",
+      "direct_api_url": "https://data.ncpor.res.in/datasets/indarc",
+      "formats": [
+        "NetCDF-4",
+        "ASCII"
+      ],
+      "licence": "NCPOR Open Data Policy",
+      "update_frequency": "Annual recovery cycle"
+    },
+    {
+      "dataset_id": "NCPOR-HIMANSH-MASSBAL-2023",
+      "title": "Glacier Mass Balance, Ablation Stakes and AWS Observations \u00b7 Sutri Dhaka Glacier",
+      "region": "Himalaya",
+      "station": "Himansh",
+      "variables": [
+        {
+          "name": "ablation_ice_loss",
+          "unit": "cm_ice/year"
+        },
+        {
+          "name": "surface_flow_velocity",
+          "unit": "m/year"
+        },
+        {
+          "name": "snow_depth",
+          "unit": "cm"
+        },
+        {
+          "name": "ice_thickness",
+          "unit": "meters"
+        }
+      ],
+      "temporal_range": {
+        "start": "2013-05-01",
+        "end": "2023-10-31"
+      },
+      "geographic_bbox": {
+        "west": 77.5,
+        "east": 77.7,
+        "south": 32.3,
+        "north": 32.5
+      },
+      "doi": "10.5065/D6HIMANSH-SUTRIDHAKA",
+      "direct_api_url": "https://www.ncaor.gov.in/datasets/himansh",
+      "formats": [
+        "CSV",
+        "Shapefile"
+      ],
+      "licence": "MoES Research Data Policy",
+      "update_frequency": "Biannual glaciological stake survey"
+    },
+    {
+      "dataset_id": "NSIDC-SEAICE-INDEX-V3",
+      "title": "NOAA / NSIDC Sea Ice Index, Version 3",
+      "region": "Multiple",
+      "station": null,
+      "variables": [
+        {
+          "name": "sea_ice_extent",
+          "unit": "10^6 km^2"
+        },
+        {
+          "name": "sea_ice_area",
+          "unit": "10^6 km^2"
+        },
+        {
+          "name": "ice_concentration_anomaly",
+          "unit": "km^2"
+        }
+      ],
+      "temporal_range": {
+        "start": "1979-01-01",
+        "end": "Present"
+      },
+      "geographic_bbox": {
+        "west": -180.0,
+        "east": 180.0,
+        "south": -90.0,
+        "north": 90.0
+      },
+      "doi": "10.7265/N5736NV7",
+      "direct_api_url": "https://nsidc.org/api/seaiceindex/v3",
+      "formats": [
+        "NetCDF",
+        "GeoTIFF",
+        "CSV"
+      ],
+      "licence": "Public Domain (NASA / NOAA)",
+      "update_frequency": "Daily automated satellite processing"
+    },
+    {
+      "dataset_id": "NCPOR-HIMADRI-AETH-BC",
+      "title": "Aerosol Black Carbon Mass Concentrations at Ny-\u00c5lesund",
+      "region": "Arctic",
+      "station": "Himadri",
+      "variables": [
+        {
+          "name": "black_carbon_mass_concentration",
+          "unit": "ng/m^3"
+        },
+        {
+          "name": "absorption_coefficient",
+          "unit": "Mm^-1"
+        }
+      ],
+      "temporal_range": {
+        "start": "2010-01-01",
+        "end": "2023-12-31"
+      },
+      "geographic_bbox": {
+        "west": 11.9,
+        "east": 12.0,
+        "south": 78.9,
+        "north": 79.0
+      },
+      "doi": "10.5065/D6AETH-HIMADRI",
+      "direct_api_url": "https://data.ncpor.res.in/datasets/aerosols",
+      "formats": [
+        "CSV"
+      ],
+      "licence": "NCPOR Open Data Policy",
+      "update_frequency": "1-minute continuous recording"
+    }
+  ]
+}

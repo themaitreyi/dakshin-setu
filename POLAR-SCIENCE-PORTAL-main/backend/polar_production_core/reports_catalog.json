@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "title": "Official Polar Expedition and Technical Reports Catalog"
+  },
+  "reports": [
+    {
+      "report_id": "REP-ISEA-40",
+      "title": "40th Indian Scientific Expedition to Antarctica \u00b7 Technical Report",
+      "year": 2021,
+      "type": "Expedition Technical Report",
+      "publishing_authority": "National Centre for Polar and Ocean Research / MoES",
+      "pages": 142,
+      "pdf_filename": "isea-40-technical-report.pdf",
+      "official_url": "https://www.ncpor.res.in/expedition/antarctica",
+      "licence": "Government of India Open Access",
+      "summary": "Full technical breakdown of logistics, science projects, fuel supply, and COVID-19 management during the 40th Indian Antarctic Expedition."
+    },
+    {
+      "report_id": "REP-ARCTIC-14",
+      "title": "14th Indian Arctic Expedition (2023\u20132024) Field Synthesis & Winter Expedition Report",
+      "year": 2024,
+      "type": "Arctic Field Report",
+      "publishing_authority": "NCPOR",
+      "pages": 88,
+      "pdf_filename": "arctic-report.pdf",
+      "official_url": "https://www.ncpor.res.in/arctics",
+      "licence": "NCPOR Copyright; Open Discovery Metadata",
+      "summary": "Detailed records of Indian wintering scientists in Ny-\u00c5lesund, Svalbard, monitoring polar night atmospheric turbulence and fjord convection."
+    },
+    {
+      "report_id": "REP-ISEA-44",
+      "title": "44th Indian Scientific Expedition to Antarctica \u00b7 Field Mission Summary",
+      "year": 2025,
+      "type": "Expedition Mission Brief",
+      "publishing_authority": "Ministry of Earth Sciences",
+      "pages": 45,
+      "pdf_filename": "isea-44-report.pdf",
+      "official_url": "https://ncps.ncpor.res.in/",
+      "licence": "MoES Public Outreach Archive",
+      "summary": "Summary of Maitri-II site ground stabilization, ice-core retrieval operations, and automated atmospheric instrument deployments."
+    },
+    {
+      "report_id": "ACT-ANTARCTIC-2022",
+      "title": "The Indian Antarctic Act, 2022 (Act No. 13 of 2022)",
+      "year": 2022,
+      "type": "Statutory Legislation",
+      "publishing_authority": "Ministry of Law and Justice, Gazette of India",
+      "pages": 24,
+      "official_url": "https://www.ncpor.res.in/",
+      "licence": "Gazette of India (Public Domain)",
+      "summary": "National legislative act regulating Indian Antarctic activities, protecting Antarctic environment, and establishing the Committee on Antarctic Governance and Environmental Protection."
+    }
+  ]
+}

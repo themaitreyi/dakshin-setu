@@ -1,0 +1,107 @@
+{
+  "datasets": [
+    {
+      "id": "NPDC_AWS_MAITRI",
+      "title": "Continuous Surface Meteorological Observations at Maitri Station (AWS)",
+      "region": "Antarctic",
+      "station": "Maitri",
+      "repository": "National Polar Data Center (NPDC) / NCPOR",
+      "source_url": "https://npdc.ncpor.res.in/",
+      "parameters": [
+        {"name": "Surface Air Temperature", "unit": "°C", "sensor": "Rotronic HygroFlex Temp/RH Probe"},
+        {"name": "Wind Speed & Direction", "unit": "m/s and degrees", "sensor": "R.M. Young 05103 Anemometer"},
+        {"name": "Atmospheric Pressure", "unit": "hPa", "sensor": "Vaisala PTB210 Digital Barometer"},
+        {"name": "Relative Humidity", "unit": "%", "sensor": "Rotronic Capacitive Thin-Film Polymer"},
+        {"name": "Global Solar Radiation", "unit": "W/m²", "sensor": "Kipp & Zonen CMP11 Pyranometer"}
+      ],
+      "sampling_interval": "10-minute averages and hourly synoptic summaries",
+      "data_format": "CSV, ASCII, NetCDF",
+      "licence": "NPDC Data Sharing Policy (Free for scientific/research use with attribution)"
+    },
+    {
+      "id": "NPDC_AWS_BHARATI",
+      "title": "Coastal Weather Station Time Series at Bharati Station",
+      "region": "Antarctic",
+      "station": "Bharati",
+      "repository": "National Polar Data Center (NPDC) / NCPOR",
+      "source_url": "https://npdc.ncpor.res.in/",
+      "parameters": [
+        {"name": "Air Temperature", "unit": "°C", "sensor": "Campbell Scientific CR3000 Logger"},
+        {"name": "Wind Velocity & Gusts", "unit": "m/s", "sensor": "Ultrasonic 2D Anemometer"},
+        {"name": "Barometric Pressure", "unit": "hPa", "sensor": "Setra 278 Barometric Sensor"},
+        {"name": "UV Index & Solar Radiation", "unit": "W/m²", "sensor": "Eppley Precision Spectral Pyranometer"}
+      ],
+      "sampling_interval": "1-minute and 10-minute intervals",
+      "data_format": "NetCDF-4, CSV",
+      "licence": "NPDC Data Policy"
+    },
+    {
+      "id": "NCPOR_INDARC_MOORING",
+      "title": "IndARC Moored Underwater Observatory Hydrographic Time Series",
+      "region": "Arctic",
+      "station": "Himadri",
+      "repository": "NCPOR Arctic Portal",
+      "source_url": "https://data.ncpor.res.in/newhtml/3",
+      "parameters": [
+        {"name": "Water Temperature", "unit": "°C", "sensor": "Seabird SBE-37 MicroCAT CTD (multiple depths: 50m, 100m, 180m)"},
+        {"name": "Practical Salinity", "unit": "psu", "sensor": "Conductivity cell SBE-37"},
+        {"name": "Current Velocity Vectors (u, v, w)", "unit": "cm/s", "sensor": "Aanderaa SeaGuard RDCP (Recording Doppler Current Profiler)"},
+        {"name": "Chlorophyll-a Fluorescence", "unit": "µg/L", "sensor": "WetLabs ECO-FLNTU"},
+        {"name": "Optical Turbidity", "unit": "NTU", "sensor": "WetLabs Optical Backscatter Sensor"},
+        {"name": "Dissolved Oxygen", "unit": "mg/L", "sensor": "Aanderaa Oxygen Optode 4835"}
+      ],
+      "sampling_interval": "Hourly continuous recording at fixed depths",
+      "data_format": "NetCDF-4, ASCII",
+      "licence": "NCPOR Open Data Portal"
+    },
+    {
+      "id": "NCPOR_HIMANSH_SUTRIDHAKA",
+      "title": "Glacier Mass Balance, Ablation Stakes and AWS Observations · Sutri Dhaka Glacier",
+      "region": "Himalaya",
+      "station": "Himansh",
+      "repository": "NCPOR Cryosphere Division",
+      "source_url": "https://www.ncaor.gov.in/pages/view/115/426-himansh",
+      "parameters": [
+        {"name": "Surface Ice Ablation / Accumulation", "unit": "cm ice/yr", "method": "Network of 28 PVC ablation stakes"},
+        {"name": "Surface Flow Velocity", "unit": "m/yr", "sensor": "Leica Viva GS15 Differential GPS (DGPS)"},
+        {"name": "Snow Depth", "unit": "cm", "sensor": "Campbell Scientific SR50A Sonic Ranging Sensor"},
+        {"name": "Ice Thickness", "unit": "m", "sensor": "MALA Ground Penetrating Radar (GPR)"}
+      ],
+      "sampling_interval": "Seasonal ablation surveys and hourly AWS logging",
+      "data_format": "CSV, Shapefile",
+      "licence": "MoES / NCPOR Research Data Policy"
+    },
+    {
+      "id": "NSIDC_SEAICE_INDEX",
+      "title": "NOAA / NSIDC Sea Ice Index, Version 3",
+      "region": "Multiple",
+      "station": null,
+      "repository": "National Snow and Ice Data Center (NSIDC) / NOAA / NASA",
+      "source_url": "https://nsidc.org/data/g02135",
+      "parameters": [
+        {"name": "Sea Ice Extent", "unit": "million square kilometers (10^6 km²)", "sensor": "DMSP SSM/I and SSMIS Passive Microwave Radiometers"},
+        {"name": "Sea Ice Area", "unit": "million square kilometers", "sensor": "NASA Team Algorithm"},
+        {"name": "Daily and Monthly Anomalies", "unit": "km² deviation from 1981–2010 mean", "sensor": "Normalized satellite grids"}
+      ],
+      "sampling_interval": "Daily and monthly time series (1979 to present)",
+      "data_format": "GeoTIFF, NetCDF, CSV",
+      "licence": "NASA Open Earthdata Policy (Public Domain)"
+    },
+    {
+      "id": "SCAR_COMPOSITE_GAZETTEER",
+      "title": "SCAR Composite Gazetteer of Antarctica (CGA)",
+      "region": "Antarctic",
+      "station": null,
+      "repository": "Scientific Committee on Antarctic Research (SCAR)",
+      "source_url": "https://data.aad.gov.au/aadc/cga/",
+      "parameters": [
+        {"name": "Geographic Feature Names", "unit": "Text", "description": "Standardized international Antarctic place names"},
+        {"name": "Latitude and Longitude", "unit": "Decimal degrees", "description": "Accurate WGS84 coordinates"},
+        {"name": "Feature Type", "unit": "Classification", "description": "Nunatak, glacier, ice shelf, valley, peak, bay"},
+        {"name": "National Authority", "unit": "Country code", "description": "Naming committee of treaty member states (including India)"}
+      ],
+      "data_format": "JSON REST API, GeoJSON, CSV",
+      "licence": "Creative Commons Attribution 4.0 International (CC-BY 4.0)"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "anti_hallucination_rule": "If retrieved evidence similarity is below 0.40, return INSUFFICIENT_EVIDENCE.",
+  "citation_rule": "Every factual statement must cite a valid chunk_id [like this].",
+  "disclaimer_rule": "Always label generated outreach as DRAFT PENDING HUMAN REVIEW."
+}

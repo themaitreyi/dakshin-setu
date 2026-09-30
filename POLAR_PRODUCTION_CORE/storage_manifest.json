@@ -1,0 +1,41 @@
+{
+  "documents": [
+    {
+      "file": "os-21-419-2025.pdf",
+      "primary_record": "10.5194/os-21-419-2025",
+      "storage_path": "documents/os-21-419-2025.pdf"
+    },
+    {
+      "file": "arctic-report.pdf",
+      "primary_record": "REP-ARCTIC-14",
+      "storage_path": "documents/arctic-report.pdf"
+    },
+    {
+      "file": "isea-44-report.pdf",
+      "primary_record": "REP-ISEA-44",
+      "storage_path": "documents/isea-44-report.pdf"
+    }
+  ],
+  "media": [
+    {
+      "file": "arctic-sea-ice.jpg",
+      "primary_record": "MED_IMG_001",
+      "storage_path": "media/arctic-sea-ice.jpg"
+    },
+    {
+      "file": "arctic-sea-ice.mp4",
+      "primary_record": "MED_VID_001",
+      "storage_path": "media/arctic-sea-ice.mp4"
+    },
+    {
+      "file": "penguin-beach.jpg",
+      "primary_record": "MED_IMG_002",
+      "storage_path": "media/penguin-beach.jpg"
+    },
+    {
+      "file": "paper-preview.png",
+      "primary_record": "MED_IMG_003",
+      "storage_path": "media/paper-preview.png"
+    }
+  ]
+}

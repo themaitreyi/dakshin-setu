@@ -1,0 +1,105 @@
+{
+  "photographs": [
+    {
+      "media_id": "PHOTO_BHARATI_AURORA",
+      "title": "Bharati Research Station under Aurora Australis",
+      "region": "Antarctic",
+      "station": "Bharati",
+      "photographer_source": "NCPOR Outreach Archive",
+      "source_url": "https://npdc.ncpor.res.in/npdc/antarctica_home.action",
+      "date": "2018-05-22",
+      "licence": "Government of India Institutional Media (Educational use permitted)",
+      "description": "Long-exposure night photograph of Bharati Base in the Larsemann Hills illuminated by green ribbons of the Southern Lights (Aurora Australis). Shows aerodynamic elevated modular architecture.",
+      "topics": ["Bharati", "aurora", "night-sky", "architecture", "Antarctica"]
+    },
+    {
+      "media_id": "PHOTO_MAITRI_SUMMER",
+      "title": "Maitri Station and Lake Priyadarshini in Polar Summer",
+      "region": "Antarctic",
+      "station": "Maitri",
+      "photographer_source": "Geological Survey of India / NCPOR",
+      "source_url": "https://npdc.ncpor.res.in/npdc/antarctica_home.action",
+      "date": "2020-01-15",
+      "licence": "Government of India Institutional Media",
+      "description": "Panoramic view of Maitri Base situated on the rocky permafrost ground of Schirmacher Oasis with the blue, ice-free waters of Lake Priyadarshini in the foreground.",
+      "topics": ["Maitri", "Schirmacher-Oasis", "Lake-Priyadarshini", "permafrost", "infrastructure"]
+    },
+    {
+      "media_id": "PHOTO_HIMADRI_SVALBARD",
+      "title": "Himadri Research Base at Ny-Ålesund Harbor",
+      "region": "Arctic",
+      "station": "Himadri",
+      "photographer_source": "NCPOR Arctic Expedition Library",
+      "source_url": "https://www.ncpor.res.in/arctics",
+      "date": "2019-07-14",
+      "licence": "Open Educational / NCPOR Credit",
+      "description": "Exterior view of India's Arctic base Himadri flying the Indian flag, situated on the shores of Kongsfjorden with Kings Bay and glaciated peaks in the background.",
+      "topics": ["Himadri", "Ny-Alesund", "Svalbard", "Kings-Bay", "Arctic"]
+    },
+    {
+      "media_id": "PHOTO_HIMANSH_GLACIER",
+      "title": "Himansh High-Altitude Field Station in Chandra Basin",
+      "region": "Himalaya",
+      "station": "Himansh",
+      "photographer_source": "NCPOR Himalayan Cryosphere Group",
+      "source_url": "https://www.ncaor.gov.in/pages/view/115/426-himansh",
+      "date": "2021-09-18",
+      "licence": "MoES / NCPOR Institutional Archive",
+      "description": "High-altitude containerized living shelter and 10-meter meteorological instrument mast surrounded by glaciated moraines in Chandra Basin (4,080 m ASL).",
+      "topics": ["Himansh", "Chandra-Basin", "glaciology", "Himalayas", "high-altitude"]
+    },
+    {
+      "media_id": "PHOTO_ICEBRIDGE_SEAICE",
+      "title": "NASA Operation IceBridge Airborne Sea Ice Survey",
+      "region": "Multiple",
+      "station": null,
+      "photographer_source": "NASA / Maria-Jose Vinas",
+      "source_url": "https://www.nasa.gov/image-article/penguin-beach/",
+      "date": "2012-11-05",
+      "licence": "Public Domain (NASA Educational/Informational Media Policy)",
+      "description": "High-altitude aerial photography documenting open leads, pressure ridges, and seasonal sea-ice deformation in the polar cryosphere.",
+      "topics": ["NASA", "sea-ice", "aerial-survey", "cryosphere", "IceBridge"]
+    }
+  ],
+  "videos": [
+    {
+      "media_id": "VIDEO_NASA_SEAICE_CYCLE",
+      "title": "Seasonal Arctic Sea Ice Dynamics (Visualization Animation)",
+      "region": "Arctic",
+      "station": null,
+      "duration": "02:45",
+      "format": "MP4 (1080p 60fps)",
+      "source_owner": "NASA Goddard Space Flight Center Scientific Visualization Studio",
+      "source_url": "https://svs.gsfc.nasa.gov/3698/",
+      "licence": "Public Domain (NASA SVS Reuse Policy)",
+      "description": "Scientific time-lapse animation illustrating the annual cycle of Arctic sea-ice freezing and retreat, highlighting multi-year vs first-year ice extent.",
+      "topics": ["sea-ice", "climate-change", "satellite-visualization", "Arctic"]
+    },
+    {
+      "media_id": "VIDEO_INDARC_DEPLOYMENT",
+      "title": "Deploying the IndARC Underwater Mooring in Kongsfjorden",
+      "region": "Arctic",
+      "station": "Himadri",
+      "duration": "04:12",
+      "format": "MP4 (1080p)",
+      "source_owner": "NCPOR Documentary Unit",
+      "source_url": "https://data.ncpor.res.in/newhtml/3",
+      "licence": "Educational Access with NCPOR Credit",
+      "description": "Field documentary showing deck operations on the research vessel in Kongsfjorden, showing rigging of acoustic releases, CTD sensors, fluorometers, and mooring anchor drop.",
+      "topics": ["IndARC", "oceanography", "field-operations", "mooring", "Svalbard"]
+    },
+    {
+      "media_id": "VIDEO_BHARATI_DOCUMENTARY",
+      "title": "The Green Base: Inside Bharati Station Antarctica",
+      "region": "Antarctic",
+      "station": "Bharati",
+      "duration": "08:30",
+      "format": "MP4 (1080p)",
+      "source_owner": "Doordarshan & MoES Media Division",
+      "source_url": "https://npdc.ncpor.res.in/",
+      "licence": "Broadcast Educational Archive",
+      "description": "Documentary overview of station life, cogeneration heat recovery, zero-discharge wastewater recycling, and satellite downlinks at Bharati base.",
+      "topics": ["Bharati", "station-life", "engineering", "Antarctica", "green-base"]
+    }
+  ]
+}

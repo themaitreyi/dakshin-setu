@@ -1,0 +1,9 @@
+.venv
+storage
+imports
+models
+tests
+__pycache__
+.pytest_cache
+*.local
+.env

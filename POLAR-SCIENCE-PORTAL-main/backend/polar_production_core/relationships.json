@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "title": "Polar Knowledge Graph Entity Relationships"
+  },
+  "relationships": [
+    {
+      "from_type": "expedition",
+      "from_id": "3-ISEA",
+      "relation": "CONSTRUCTED_STATION",
+      "to_type": "station",
+      "to_id": "STN_DAKSHIN_GANGOTRI"
+    },
+    {
+      "from_type": "expedition",
+      "from_id": "8-ISEA",
+      "relation": "CONSTRUCTED_STATION",
+      "to_type": "station",
+      "to_id": "STN_MAITRI"
+    },
+    {
+      "from_type": "expedition",
+      "from_id": "31-ISEA",
+      "relation": "COMMISSIONED_STATION",
+      "to_type": "station",
+      "to_id": "STN_BHARATI"
+    },
+    {
+      "from_type": "station",
+      "from_id": "STN_MAITRI",
+      "relation": "GENERATES_DATASET",
+      "to_type": "dataset",
+      "to_id": "NPDC-MET-MAITRI-2023"
+    },
+    {
+      "from_type": "station",
+      "from_id": "STN_BHARATI",
+      "relation": "GENERATES_DATASET",
+      "to_type": "dataset",
+      "to_id": "NPDC-AWS-BHARATI-2023"
+    },
+    {
+      "from_type": "station",
+      "from_id": "STN_HIMADRI",
+      "relation": "OPERATES_OBSERVATORY",
+      "to_type": "station",
+      "to_id": "STN_INDARC"
+    },
+    {
+      "from_type": "station",
+      "from_id": "STN_INDARC",
+      "relation": "GENERATES_DATASET",
+      "to_type": "dataset",
+      "to_id": "NCPOR-INDARC-CTD-2022"
+    },
+    {
+      "from_type": "station",
+      "from_id": "STN_HIMANSH",
+      "relation": "GENERATES_DATASET",
+      "to_type": "dataset",
+      "to_id": "NCPOR-HIMANSH-MASSBAL-2023"
+    },
+    {
+      "from_type": "publication",
+      "from_id": "10.1016/j.polar.2018.06.002",
+      "relation": "ANALYZES_DATASET",
+      "to_type": "dataset",
+      "to_id": "NCPOR-INDARC-CTD-2022"
+    },
+    {
+      "from_type": "publication",
+      "from_id": "10.1017/jog.2021.32",
+      "relation": "ANALYZES_DATASET",
+      "to_type": "dataset",
+      "to_id": "NCPOR-HIMANSH-MASSBAL-2023"
+    },
+    {
+      "from_type": "media",
+      "from_id": "MED_IMG_001",
+      "relation": "ILLUSTRATES_REGION",
+      "to_type": "region",
+      "to_id": "Arctic"
+    },
+    {
+      "from_type": "report",
+      "from_id": "REP-ARCTIC-14",
+      "relation": "REPORTS_EXPEDITION",
+      "to_type": "expedition",
+      "to_id": "Arctic-14"
+    }
+  ]
+}

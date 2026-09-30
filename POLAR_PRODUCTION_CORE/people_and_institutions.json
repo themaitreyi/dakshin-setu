@@ -1,0 +1,93 @@
+{
+  "institutions": [
+    {
+      "id": "INST_NCPOR",
+      "name": "National Centre for Polar and Ocean Research",
+      "location": "Headland Sada, Vasco-da-Gama, Goa, India",
+      "type": "Autonomous R&D Institute under MoES",
+      "role": "Nodal agency for Indian Polar Programmes"
+    },
+    {
+      "id": "INST_MOES",
+      "name": "Ministry of Earth Sciences",
+      "location": "Prithvi Bhavan, Lodhi Road, New Delhi, India",
+      "type": "Government Ministry",
+      "role": "Apex governing authority"
+    },
+    {
+      "id": "INST_GSI",
+      "name": "Geological Survey of India",
+      "location": "Kolkata, India",
+      "type": "Government Geological Body",
+      "role": "Antarctic glaciology and regional bedrock mapping"
+    },
+    {
+      "id": "INST_NIO",
+      "name": "CSIR - National Institute of Oceanography",
+      "location": "Dona Paula, Goa, India",
+      "type": "National Research Laboratory",
+      "role": "Southern Ocean biological and physical oceanography"
+    },
+    {
+      "id": "INST_NGRI",
+      "name": "CSIR - National Geophysical Research Institute",
+      "location": "Hyderabad, India",
+      "type": "National Research Laboratory",
+      "role": "Permanent seismic and geomagnetic stations in Antarctica"
+    },
+    {
+      "id": "INST_ISRO",
+      "name": "Indian Space Research Organisation / NRSC",
+      "location": "Bengaluru / Hyderabad, India",
+      "type": "Space Agency",
+      "role": "Satellite ground station telemetry at Bharati base"
+    }
+  ],
+  "researchers_and_leaders": [
+    {
+      "name": "Dr. Syed Zahoor Qasim",
+      "affiliation": "Department of Ocean Development",
+      "role": "Expedition Leader, 1st ISEA (1981\u20131982)",
+      "field": "Marine Biology & Polar Exploration"
+    },
+    {
+      "name": "Dr. Harsh K. Srivastava",
+      "affiliation": "Department of Ocean Development",
+      "role": "Expedition Leader, 3rd ISEA (1983\u20131984)",
+      "field": "Geophysics & Station Construction"
+    },
+    {
+      "name": "Dr. R. Sengupta",
+      "affiliation": "CSIR - National Institute of Oceanography",
+      "role": "Expedition Leader, 8th ISEA (1988\u20131989)",
+      "field": "Chemical Oceanography & Maitri Base Construction"
+    },
+    {
+      "name": "Rasik Ravindra",
+      "affiliation": "NCAOR / GSI",
+      "role": "Director, NCAOR & Leader 9th ISEA and 1st Arctic Expedition",
+      "field": "Polar Glaciology & Geomorphology"
+    },
+    {
+      "name": "Dr. Thamban Meloth",
+      "affiliation": "NCPOR",
+      "orcid": "0000-0002-3928-8686",
+      "role": "Director, NCPOR",
+      "field": "Ice Core Paleoclimatology & Himalayan Cryosphere"
+    },
+    {
+      "name": "Dr. K. P. Krishnan",
+      "affiliation": "NCPOR",
+      "orcid": "0000-0002-9516-160X",
+      "role": "Scientist-F, Arctic Operations",
+      "field": "Arctic Biogeochemistry & IndARC Mooring"
+    },
+    {
+      "name": "Dr. Parmanand Sharma",
+      "affiliation": "NCPOR",
+      "orcid": "0000-0002-2321-4822",
+      "role": "Scientist-E, Himalayan Cryosphere",
+      "field": "Glacier Mass Balance & Remote Sensing"
+    }
+  ]
+}
